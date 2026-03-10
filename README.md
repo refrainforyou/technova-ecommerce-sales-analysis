@@ -32,6 +32,8 @@ An interactive **Power BI dashboard** was built to explore these insights visual
 ---
 
 # Repository Structure
+
+```
 technova-ecommerce-sales-analysis
 │
 ├── dataset
@@ -45,8 +47,8 @@ technova-ecommerce-sales-analysis
 │
 ├── sql
 │   ├── create_tables
-│       └── create_tables.sql
-│   └── analysis_queries.sql
+│   │   └── create_tables.sql
+│   └── analysis_queries
 │       ├── 01_Total_Revenue.sql
 │       ├── 02_Total_Order_Amount.sql
 │       ├── 03_Return_Rate.sql
@@ -54,10 +56,10 @@ technova-ecommerce-sales-analysis
 │       ├── 05_Customer_Order_Count.sql
 │       ├── 06_Average_Product_Price_By_Category.sql
 │       ├── 07_Subcategory_Revenue_Above_100k_2025.sql
-│       ├── 08_Average_Order_Value(marketing_channel).sql
+│       ├── 08_Average_Order_Value_marketing_channel.sql
 │       ├── 09_Refund_Amount.sql
 │       ├── 10_Monthly_Running_Total.sql
-│       ├── 11_Top_Customers_By_Revenue.sql
+│       └── 11_Top_Customers_By_Revenue.sql
 │
 ├── powerbi
 │   └── tech_nova.pbix
@@ -70,10 +72,9 @@ technova-ecommerce-sales-analysis
 │
 ├── LICENSE
 └── README.md
-
+```
 
 ---
-
 
 # Data Model
 
@@ -107,13 +108,18 @@ SQL was used to:
 Example query:
 
 ```sql
-SELECT
-    fi.order_id,
-    SUM(dp.price * fi.quantity) AS total_order_amount
-FROM fact_order_items fi
-JOIN dim_products dp
-    ON dp.product_id = fi.product_id
-GROUP BY fi.order_id;
+SELECT SUM(total_order_amount) AS total_revenue
+FROM (
+    SELECT
+        fo.order_id,
+        SUM(dp.price * fi.quantity) * (1 - fo.discount_amount)
+        + fo.shipping_amount AS total_order_amount
+    FROM fact_orders fo
+    JOIN fact_order_items fi ON fo.order_id = fi.order_id
+    JOIN dim_products dp ON fi.product_id = dp.product_id
+    WHERE fo.order_status = 'Completed'
+    GROUP BY fo.order_id, fo.discount_amount, fo.shipping_amount
+) t;
 ```
 
 ---
