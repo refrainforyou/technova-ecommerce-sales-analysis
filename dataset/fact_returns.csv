@@ -1,0 +1,343 @@
+return_id,order_item_id,return_date,return_reason
+1,1270,2023-03-08,Received the wrong item.
+2,2333,2026-01-01,Size/color/model does not fit.
+3,2148,2024-08-23,Changed my mind/did not like the item.
+4,2429,2025-11-17,Changed my mind/did not like the item.
+5,2615,2024-01-20,Changed my mind/did not like the item.
+6,119,2024-04-24,Changed my mind/did not like the item.
+7,17,2024-10-17,Size/color/model does not fit.
+8,2300,2024-08-25,Size/color/model does not fit.
+9,1264,2025-01-24,Changed my mind/did not like the item.
+10,2746,2023-07-29,Changed my mind/did not like the item.
+11,428,2024-06-21,Changed my mind/did not like the item.
+12,715,2025-04-04,Changed my mind/did not like the item.
+13,1976,2023-06-29,Changed my mind/did not like the item.
+14,498,2024-09-09,Size/color/model does not fit.
+15,1156,2024-03-08,Changed my mind/did not like the item.
+16,3031,2023-06-14,Changed my mind/did not like the item.
+17,1872,2025-02-09,Changed my mind/did not like the item.
+18,1937,2025-07-04,Changed my mind/did not like the item.
+19,3145,2024-04-03,Changed my mind/did not like the item.
+20,1620,2024-07-25,Changed my mind/did not like the item.
+21,2276,2025-07-06,Changed my mind/did not like the item.
+22,1102,2025-03-09,Changed my mind/did not like the item.
+23,1051,2024-04-12,Changed my mind/did not like the item.
+24,2977,2026-03-04,Changed my mind/did not like the item.
+25,2226,2026-01-31,Changed my mind/did not like the item.
+26,3233,2025-09-21,Changed my mind/did not like the item.
+27,2932,2025-12-08,Size/color/model does not fit.
+28,195,2024-08-31,Changed my mind/did not like the item.
+29,2809,2024-12-28,Changed my mind/did not like the item.
+30,1314,2024-03-16,Changed my mind/did not like the item.
+31,1336,2025-08-12,Size/color/model does not fit.
+32,1615,2025-03-03,Size/color/model does not fit.
+33,691,2025-05-05,Changed my mind/did not like the item.
+34,2960,2025-12-18,Changed my mind/did not like the item.
+35,2214,2025-12-09,Size/color/model does not fit.
+36,2360,2025-09-16,Changed my mind/did not like the item.
+37,1475,2025-07-18,Received the wrong item.
+38,3018,2026-01-10,Received the wrong item.
+39,2478,2026-03-14,Size/color/model does not fit.
+40,33,2024-08-02,Changed my mind/did not like the item.
+41,2967,2026-03-01,Changed my mind/did not like the item.
+42,3003,2024-12-10,Changed my mind/did not like the item.
+43,2126,2023-04-15,Changed my mind/did not like the item.
+44,2121,2023-04-23,Item does not match the description.
+45,3225,2024-01-29,Size/color/model does not fit.
+46,2314,2024-06-03,Changed my mind/did not like the item.
+47,15,2025-11-27,Changed my mind/did not like the item.
+48,1694,2023-05-21,Changed my mind/did not like the item.
+49,1422,2025-02-17,Changed my mind/did not like the item.
+50,792,2025-11-22,Changed my mind/did not like the item.
+51,1878,2025-09-26,Changed my mind/did not like the item.
+52,3189,2026-02-03,Changed my mind/did not like the item.
+53,1069,2024-11-30,Changed my mind/did not like the item.
+54,1882,2023-06-29,Changed my mind/did not like the item.
+55,1053,2024-04-07,Changed my mind/did not like the item.
+56,2867,2025-08-19,Size/color/model does not fit.
+57,230,2023-10-24,Size/color/model does not fit.
+58,705,2024-11-11,Size/color/model does not fit.
+59,1241,2023-04-23,Changed my mind/did not like the item.
+60,2852,2025-09-29,Changed my mind/did not like the item.
+61,1970,2023-03-14,Changed my mind/did not like the item.
+62,2947,2023-12-15,Size/color/model does not fit.
+63,1282,2023-12-26,Changed my mind/did not like the item.
+64,1104,2024-01-31,Changed my mind/did not like the item.
+65,1006,2024-03-28,Changed my mind/did not like the item.
+66,3271,2023-08-31,Changed my mind/did not like the item.
+67,1791,2026-02-06,Changed my mind/did not like the item.
+68,627,2023-01-09,Changed my mind/did not like the item.
+69,1670,2023-09-01,Changed my mind/did not like the item.
+70,2281,2024-09-01,Changed my mind/did not like the item.
+71,1648,2023-02-26,Changed my mind/did not like the item.
+72,744,2026-02-08,Item is damaged/defective.
+73,186,2025-10-28,Changed my mind/did not like the item.
+74,1672,2025-06-19,Changed my mind/did not like the item.
+75,365,2024-02-26,Item is damaged/defective.
+76,3172,2026-02-02,Size/color/model does not fit.
+77,2102,2025-02-22,Changed my mind/did not like the item.
+78,1059,2023-08-20,Changed my mind/did not like the item.
+79,266,2023-04-23,Changed my mind/did not like the item.
+80,353,2023-12-01,Changed my mind/did not like the item.
+81,1034,2024-01-10,Size/color/model does not fit.
+82,3263,2024-05-05,Changed my mind/did not like the item.
+83,2150,2024-09-20,Size/color/model does not fit.
+84,1019,2024-09-10,Item is damaged/defective.
+85,2045,2025-02-17,Changed my mind/did not like the item.
+86,328,2025-07-03,Size/color/model does not fit.
+87,1472,2024-07-10,Changed my mind/did not like the item.
+88,454,2026-03-09,Size/color/model does not fit.
+89,1594,2024-10-04,Size/color/model does not fit.
+90,1842,2024-12-23,Changed my mind/did not like the item.
+91,669,2023-09-17,Size/color/model does not fit.
+92,12,2024-01-24,Changed my mind/did not like the item.
+93,953,2024-07-14,Changed my mind/did not like the item.
+94,987,2024-12-03,Size/color/model does not fit.
+95,1138,2024-03-23,Changed my mind/did not like the item.
+96,370,2025-08-25,Changed my mind/did not like the item.
+97,2946,2023-12-23,Received the wrong item.
+98,2286,2023-01-05,Changed my mind/did not like the item.
+99,9,2025-02-16,Changed my mind/did not like the item.
+100,2122,2024-09-23,Changed my mind/did not like the item.
+101,656,2024-08-05,Size/color/model does not fit.
+102,885,2023-12-29,Changed my mind/did not like the item.
+103,2704,2023-08-29,Changed my mind/did not like the item.
+104,120,2024-05-12,Received the wrong item.
+105,1360,2023-06-12,Size/color/model does not fit.
+106,2222,2025-06-17,Size/color/model does not fit.
+107,2560,2023-08-17,Changed my mind/did not like the item.
+108,1121,2024-01-05,Size/color/model does not fit.
+109,659,2023-03-08,Size/color/model does not fit.
+110,1387,2024-11-04,Changed my mind/did not like the item.
+111,2407,2024-09-07,Size/color/model does not fit.
+112,692,2025-03-25,Changed my mind/did not like the item.
+113,3258,2023-10-12,Size/color/model does not fit.
+114,1003,2023-04-15,Size/color/model does not fit.
+115,1735,2024-12-14,Size/color/model does not fit.
+116,2363,2023-10-01,Changed my mind/did not like the item.
+117,3309,2024-06-08,Size/color/model does not fit.
+118,2080,2024-04-06,Changed my mind/did not like the item.
+119,2686,2025-04-02,Changed my mind/did not like the item.
+120,489,2023-07-07,Changed my mind/did not like the item.
+121,2068,2023-02-12,Changed my mind/did not like the item.
+122,1433,2026-01-01,Size/color/model does not fit.
+123,1339,2023-11-23,Changed my mind/did not like the item.
+124,1537,2025-05-01,Changed my mind/did not like the item.
+125,903,2023-08-30,Changed my mind/did not like the item.
+126,3322,2024-12-10,Changed my mind/did not like the item.
+127,185,2023-12-30,Changed my mind/did not like the item.
+128,1373,2025-09-22,Size/color/model does not fit.
+129,3270,2023-03-07,Changed my mind/did not like the item.
+130,2942,2024-08-11,Changed my mind/did not like the item.
+131,2215,2025-07-13,Item does not match the description.
+132,3286,2026-02-18,Size/color/model does not fit.
+133,2851,2025-09-21,Changed my mind/did not like the item.
+134,221,2025-12-11,Item is missing parts/accessories.
+135,1604,2024-10-03,Item does not match the description.
+136,2596,2025-09-11,Size/color/model does not fit.
+137,1060,2025-10-15,Changed my mind/did not like the item.
+138,2791,2024-04-18,Changed my mind/did not like the item.
+139,2366,2026-02-22,Changed my mind/did not like the item.
+140,1713,2024-03-29,Changed my mind/did not like the item.
+141,846,2023-03-28,Changed my mind/did not like the item.
+142,305,2023-12-10,Changed my mind/did not like the item.
+143,410,2024-06-18,Size/color/model does not fit.
+144,2667,2023-10-24,Changed my mind/did not like the item.
+145,1876,2023-01-21,Size/color/model does not fit.
+146,1642,2025-05-16,Changed my mind/did not like the item.
+147,2192,2024-11-28,Received the wrong item.
+148,1100,2024-10-31,Changed my mind/did not like the item.
+149,430,2024-02-29,Changed my mind/did not like the item.
+150,834,2023-05-10,Received the wrong item.
+151,3185,2025-12-25,Changed my mind/did not like the item.
+152,1016,2025-08-03,Changed my mind/did not like the item.
+153,1614,2025-05-07,Size/color/model does not fit.
+154,2046,2025-07-25,Size/color/model does not fit.
+155,1539,2024-06-21,Changed my mind/did not like the item.
+156,2330,2023-08-17,Size/color/model does not fit.
+157,1257,2024-02-25,Item is damaged/defective.
+158,435,2023-10-18,Changed my mind/did not like the item.
+159,2894,2026-02-15,Changed my mind/did not like the item.
+160,1318,2023-08-08,Size/color/model does not fit.
+161,821,2024-09-12,Size/color/model does not fit.
+162,815,2025-01-22,Size/color/model does not fit.
+163,977,2024-01-05,Changed my mind/did not like the item.
+164,863,2025-01-11,Size/color/model does not fit.
+165,1624,2024-03-17,Changed my mind/did not like the item.
+166,3193,2024-11-06,Size/color/model does not fit.
+167,2895,2024-08-29,Changed my mind/did not like the item.
+168,445,2025-03-31,Size/color/model does not fit.
+169,259,2023-03-28,Size/color/model does not fit.
+170,68,2024-05-01,Changed my mind/did not like the item.
+171,2331,2023-08-11,Changed my mind/did not like the item.
+172,742,2024-12-13,Changed my mind/did not like the item.
+173,242,2025-10-24,Changed my mind/did not like the item.
+174,831,2023-12-07,Size/color/model does not fit.
+175,1710,2024-10-16,Changed my mind/did not like the item.
+176,1831,2023-08-12,Changed my mind/did not like the item.
+177,1705,2025-01-10,Size/color/model does not fit.
+178,282,2024-08-26,Changed my mind/did not like the item.
+179,770,2024-07-13,Changed my mind/did not like the item.
+180,1722,2025-07-23,Item is damaged/defective.
+181,675,2024-05-28,Size/color/model does not fit.
+182,816,2025-04-22,Item is damaged/defective.
+183,1702,2024-09-14,Received the wrong item.
+184,2777,2025-09-20,Received the wrong item.
+185,1426,2023-10-16,Changed my mind/did not like the item.
+186,1114,2023-09-18,Changed my mind/did not like the item.
+187,2585,2025-02-27,Size/color/model does not fit.
+188,2697,2024-04-21,Size/color/model does not fit.
+189,2491,2025-03-19,Changed my mind/did not like the item.
+190,348,2024-06-12,Changed my mind/did not like the item.
+191,858,2025-10-26,Size/color/model does not fit.
+192,3015,2025-05-26,Changed my mind/did not like the item.
+193,451,2024-09-08,Changed my mind/did not like the item.
+194,2640,2023-07-01,Item is damaged/defective.
+195,1724,2023-10-27,Changed my mind/did not like the item.
+196,2771,2026-01-07,Size/color/model does not fit.
+197,371,2025-08-30,Changed my mind/did not like the item.
+198,1611,2024-07-21,Changed my mind/did not like the item.
+199,983,2024-01-25,Changed my mind/did not like the item.
+200,434,2023-12-16,Changed my mind/did not like the item.
+201,272,2024-07-28,Size/color/model does not fit.
+202,1118,2023-09-27,Received the wrong item.
+203,1980,2023-08-14,Changed my mind/did not like the item.
+204,2161,2025-03-21,Changed my mind/did not like the item.
+205,1807,2024-03-06,Changed my mind/did not like the item.
+206,2727,2023-02-18,Changed my mind/did not like the item.
+207,1180,2024-12-10,Changed my mind/did not like the item.
+208,1410,2023-05-21,Size/color/model does not fit.
+209,1487,2024-06-05,Changed my mind/did not like the item.
+210,1461,2023-04-01,Changed my mind/did not like the item.
+211,891,2024-07-02,Changed my mind/did not like the item.
+212,1305,2026-01-29,Changed my mind/did not like the item.
+213,1012,2024-04-01,Changed my mind/did not like the item.
+214,1235,2023-04-06,Item is damaged/defective.
+215,2964,2025-02-09,Changed my mind/did not like the item.
+216,1072,2023-08-06,Size/color/model does not fit.
+217,3159,2024-01-22,Size/color/model does not fit.
+218,1950,2026-01-14,Changed my mind/did not like the item.
+219,2784,2024-11-01,Size/color/model does not fit.
+220,788,2025-05-25,Changed my mind/did not like the item.
+221,2728,2023-03-06,Changed my mind/did not like the item.
+222,1750,2024-12-07,Changed my mind/did not like the item.
+223,2018,2023-02-15,Changed my mind/did not like the item.
+224,257,2023-04-06,Changed my mind/did not like the item.
+225,2096,2025-02-07,Size/color/model does not fit.
+226,1297,2026-03-01,Changed my mind/did not like the item.
+227,198,2025-11-01,Size/color/model does not fit.
+228,658,2024-08-30,Changed my mind/did not like the item.
+229,2341,2023-12-01,Changed my mind/did not like the item.
+230,667,2026-03-15,Changed my mind/did not like the item.
+231,845,2023-03-19,Changed my mind/did not like the item.
+232,2877,2025-02-12,Size/color/model does not fit.
+233,1378,2024-02-11,Changed my mind/did not like the item.
+234,2997,2025-09-20,Changed my mind/did not like the item.
+235,2661,2024-11-27,Changed my mind/did not like the item.
+236,765,2023-11-30,Changed my mind/did not like the item.
+237,1090,2025-09-15,Changed my mind/did not like the item.
+238,1649,2023-02-27,Size/color/model does not fit.
+239,1693,2023-05-28,Size/color/model does not fit.
+240,1172,2025-05-25,Item is damaged/defective.
+241,2433,2023-09-01,Changed my mind/did not like the item.
+242,3123,2026-01-25,Changed my mind/did not like the item.
+243,483,2023-04-13,Size/color/model does not fit.
+244,1025,2023-04-22,Changed my mind/did not like the item.
+245,2010,2024-04-27,Changed my mind/did not like the item.
+246,1242,2024-07-02,Changed my mind/did not like the item.
+247,2003,2023-11-23,Size/color/model does not fit.
+248,1439,2024-02-29,Size/color/model does not fit.
+249,2083,2023-06-17,Changed my mind/did not like the item.
+250,1088,2025-12-29,Item is damaged/defective.
+251,2510,2024-10-16,Size/color/model does not fit.
+252,552,2025-09-13,Item is missing parts/accessories.
+253,2939,2024-12-22,Changed my mind/did not like the item.
+254,1108,2025-09-24,Changed my mind/did not like the item.
+255,1116,2023-04-09,Size/color/model does not fit.
+256,380,2025-02-21,Size/color/model does not fit.
+257,2589,2024-11-18,Size/color/model does not fit.
+258,1203,2023-05-29,Changed my mind/did not like the item.
+259,2461,2025-09-15,Size/color/model does not fit.
+260,1617,2024-08-28,Size/color/model does not fit.
+261,1057,2023-09-09,Item is missing parts/accessories.
+262,3067,2024-07-15,Changed my mind/did not like the item.
+263,1078,2024-10-27,Size/color/model does not fit.
+264,1148,2025-06-23,Changed my mind/did not like the item.
+265,2441,2025-02-26,Changed my mind/did not like the item.
+266,1574,2025-05-18,Item is damaged/defective.
+267,2587,2023-01-25,Changed my mind/did not like the item.
+268,178,2023-12-17,Changed my mind/did not like the item.
+269,1476,2024-10-13,Changed my mind/did not like the item.
+270,2741,2023-06-10,Item does not match the description.
+271,2103,2023-02-21,Changed my mind/did not like the item.
+272,2845,2025-10-01,Item is missing parts/accessories.
+273,3162,2025-08-29,Size/color/model does not fit.
+274,2790,2024-04-12,Changed my mind/did not like the item.
+275,3126,2023-09-05,Changed my mind/did not like the item.
+276,899,2025-04-01,Size/color/model does not fit.
+277,1220,2023-01-31,Changed my mind/did not like the item.
+278,264,2024-07-28,Size/color/model does not fit.
+279,1292,2023-02-07,Changed my mind/did not like the item.
+280,2898,2023-03-16,Size/color/model does not fit.
+281,416,2024-11-27,Received the wrong item.
+282,2748,2023-07-27,Changed my mind/did not like the item.
+283,2193,2026-01-12,Changed my mind/did not like the item.
+284,3036,2025-12-22,Size/color/model does not fit.
+285,727,2024-03-16,Changed my mind/did not like the item.
+286,1166,2023-06-30,Item is missing parts/accessories.
+287,3239,2024-10-25,Size/color/model does not fit.
+288,369,2023-05-03,Changed my mind/did not like the item.
+289,2725,2023-11-26,Changed my mind/did not like the item.
+290,537,2025-12-16,Size/color/model does not fit.
+291,1741,2024-11-26,Changed my mind/did not like the item.
+292,25,2023-06-17,Size/color/model does not fit.
+293,2664,2023-07-18,Changed my mind/did not like the item.
+294,1094,2024-04-05,Size/color/model does not fit.
+295,1690,2023-12-27,Changed my mind/did not like the item.
+296,354,2024-08-09,Item is damaged/defective.
+297,2909,2023-07-29,Size/color/model does not fit.
+298,2400,2024-04-14,Changed my mind/did not like the item.
+299,400,2025-06-18,Changed my mind/did not like the item.
+300,2917,2024-09-05,Changed my mind/did not like the item.
+301,3289,2023-04-26,Changed my mind/did not like the item.
+302,1817,2024-08-04,Changed my mind/did not like the item.
+303,512,2023-06-23,Size/color/model does not fit.
+304,2401,2026-01-28,Changed my mind/did not like the item.
+305,2136,2024-11-03,Size/color/model does not fit.
+306,1205,2023-09-21,Changed my mind/did not like the item.
+307,3161,2025-07-29,Changed my mind/did not like the item.
+308,167,2025-04-10,Changed my mind/did not like the item.
+309,2141,2023-09-07,Changed my mind/did not like the item.
+310,1814,2025-08-05,Changed my mind/did not like the item.
+311,1474,2025-07-09,Size/color/model does not fit.
+312,1996,2024-03-14,Changed my mind/did not like the item.
+313,2375,2024-02-22,Item is missing parts/accessories.
+314,2650,2025-07-10,Changed my mind/did not like the item.
+315,1782,2025-02-15,Changed my mind/did not like the item.
+316,432,2023-01-27,Size/color/model does not fit.
+317,1062,2024-10-25,Changed my mind/did not like the item.
+318,1736,2025-10-24,Changed my mind/did not like the item.
+319,1024,2026-01-24,Item does not match the description.
+320,1641,2025-05-30,Received the wrong item.
+321,2306,2024-12-31,Size/color/model does not fit.
+322,2115,2023-02-25,Changed my mind/did not like the item.
+323,1798,2024-03-13,Changed my mind/did not like the item.
+324,1101,2024-09-04,Changed my mind/did not like the item.
+325,2238,2025-01-31,Changed my mind/did not like the item.
+326,2685,2025-01-20,Item is damaged/defective.
+327,244,2023-06-24,Size/color/model does not fit.
+328,2912,2023-08-17,Size/color/model does not fit.
+329,2321,2023-08-05,Changed my mind/did not like the item.
+330,621,2025-02-27,Changed my mind/did not like the item.
+331,680,2023-05-11,Size/color/model does not fit.
+332,2687,2025-03-30,Changed my mind/did not like the item.
+333,2956,2023-12-25,Changed my mind/did not like the item.
+334,1819,2024-08-24,Changed my mind/did not like the item.
+335,443,2024-09-06,Changed my mind/did not like the item.
+336,1196,2024-03-21,Changed my mind/did not like the item.
+337,2270,2024-03-27,Item does not match the description.
+338,1375,2023-11-03,Changed my mind/did not like the item.
+339,994,2025-10-25,Size/color/model does not fit.
+340,1028,2024-06-18,Size/color/model does not fit.
+341,3300,2025-07-13,Size/color/model does not fit.
+342,2101,2025-03-10,Item does not match the description.

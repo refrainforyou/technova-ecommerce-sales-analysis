@@ -1,0 +1,11 @@
+subcategory_id,subcategory_name,category_id
+1,iOS Phones,1
+2,Android Phones,1
+3,Gaming Laptops,2
+4,Ultrabooks,2
+5,LED TVs,3
+6,OLED TVs,3
+7,Chargers,4
+8,Headphones,4
+9,Mouse,4
+10,Keyboards,4

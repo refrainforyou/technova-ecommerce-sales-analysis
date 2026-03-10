@@ -1,0 +1,2190 @@
+order_id,customer_id,order_date,discount_amount,shipping_amount,order_status,payment_type
+1,102,2024-04-17,0.00,8.99,Completed,Cash
+2,20,2024-07-25,0.00,4.99,Completed,Cash
+3,150,2025-09-01,0.00,8.99,Completed,Card
+4,106,2025-07-10,0.00,14.99,Completed,Card
+5,127,2025-04-06,0.00,4.99,Completed,PayPal
+6,137,2024-03-31,0.00,4.99,Completed,PayPal
+7,92,2025-02-15,0.00,6.99,Completed,PayPal
+8,41,2023-12-26,0.06,14.99,Completed,PayPal
+9,49,2024-10-15,0.15,14.99,Completed,Bank Transfer
+10,157,2025-11-06,0.00,6.99,Completed,Card
+11,59,2024-06-29,0.00,4.99,Completed,Card
+12,8,2024-10-13,0.00,14.99,Completed,PayPal
+13,48,2024-01-05,0.12,4.99,Completed,Bank Transfer
+14,117,2023-03-15,0.00,8.99,Completed,Cash
+15,84,2023-09-20,0.00,4.99,Completed,Cash
+16,101,2025-03-02,0.00,14.99,Completed,Card
+17,124,2023-06-10,0.00,8.99,Completed,Bank Transfer
+18,111,2025-02-11,0.00,6.99,Completed,PayPal
+19,75,2024-09-02,0.00,8.99,Completed,Bank Transfer
+20,22,2023-03-16,0.09,6.99,Completed,PayPal
+21,66,2025-09-15,0.00,8.99,Completed,PayPal
+22,83,2025-10-29,0.05,6.99,Completed,Bank Transfer
+23,125,2024-07-24,0.00,6.99,Completed,Card
+24,20,2025-11-11,0.00,4.99,Completed,Card
+25,38,2025-07-10,0.00,4.99,Completed,Cash
+26,33,2024-10-09,0.00,6.99,Completed,Bank Transfer
+27,124,2023-01-18,0.14,14.99,Completed,Card
+28,54,2025-11-16,0.00,4.99,Completed,PayPal
+29,43,2023-09-04,0.00,14.99,Completed,Card
+30,152,2024-07-26,0.00,14.99,Completed,PayPal
+31,21,2025-10-15,0.00,8.99,Completed,PayPal
+32,46,2025-01-30,0.00,6.99,Completed,Card
+33,16,2025-09-18,0.00,6.99,Completed,Card
+34,93,2023-12-29,0.09,6.99,Completed,PayPal
+35,159,2023-03-20,0.00,14.99,Completed,Bank Transfer
+36,90,2024-04-01,0.00,6.99,Completed,Card
+37,19,2024-03-10,0.00,8.99,Completed,Card
+38,61,2023-09-08,0.07,4.99,Completed,Bank Transfer
+39,96,2025-01-27,0.00,8.99,Completed,PayPal
+40,47,2024-07-29,0.00,8.99,Completed,PayPal
+41,110,2025-04-14,0.00,14.99,Completed,Card
+42,62,2024-06-11,0.00,6.99,Completed,Cash
+43,155,2024-08-23,0.07,8.99,Completed,PayPal
+44,136,2024-11-13,0.00,6.99,Completed,Bank Transfer
+45,39,2024-05-30,0.00,4.99,Completed,PayPal
+46,24,2023-02-19,0.13,6.99,Completed,Card
+47,64,2024-04-30,0.09,6.99,Completed,Cash
+48,125,2025-07-06,0.00,14.99,Completed,Bank Transfer
+49,18,2023-06-30,0.00,14.99,Completed,PayPal
+50,73,2024-10-25,0.00,14.99,Completed,Bank Transfer
+51,104,2024-12-03,0.00,14.99,Completed,Bank Transfer
+52,76,2025-12-16,0.00,8.99,Completed,Card
+53,41,2024-11-03,0.00,4.99,Completed,Card
+54,159,2025-03-07,0.00,8.99,Completed,Card
+55,99,2026-01-07,0.14,6.99,Completed,Bank Transfer
+56,139,2025-02-04,0.13,14.99,Completed,Cash
+57,93,2025-05-08,0.00,14.99,Completed,Card
+58,121,2024-11-30,0.07,8.99,Completed,Cash
+59,147,2024-08-18,0.13,6.99,Completed,Bank Transfer
+60,158,2023-10-21,0.00,14.99,Completed,Bank Transfer
+61,3,2025-04-22,0.00,14.99,Completed,Cash
+62,65,2025-08-12,0.08,8.99,Completed,PayPal
+63,28,2025-01-04,0.00,6.99,Completed,Card
+64,34,2025-05-11,0.00,6.99,Completed,Cash
+65,5,2025-10-31,0.00,6.99,Completed,Card
+66,143,2023-01-13,0.00,4.99,Completed,Bank Transfer
+67,160,2024-08-17,0.00,8.99,Completed,Card
+68,107,2023-01-31,0.00,8.99,Completed,Card
+69,17,2024-03-27,0.00,4.99,Completed,Cash
+70,82,2024-08-18,0.00,14.99,Completed,Bank Transfer
+71,94,2024-08-06,0.09,14.99,Completed,PayPal
+72,25,2024-12-14,0.00,6.99,Completed,PayPal
+73,115,2024-01-12,0.00,8.99,Completed,Card
+74,76,2025-02-10,0.12,8.99,Completed,Cash
+75,80,2024-09-02,0.00,6.99,Completed,Bank Transfer
+76,128,2023-06-04,0.00,4.99,Completed,Bank Transfer
+77,90,2024-03-10,0.00,14.99,Completed,Card
+78,161,2024-04-14,0.00,4.99,Completed,Cash
+79,142,2026-02-19,0.00,14.99,Completed,Bank Transfer
+80,96,2024-12-07,0.00,8.99,Completed,Cash
+81,118,2025-01-12,0.00,4.99,Completed,Card
+82,104,2026-02-21,0.00,6.99,Completed,Card
+83,66,2023-11-11,0.00,14.99,Completed,Card
+84,38,2024-09-07,0.08,8.99,Completed,Bank Transfer
+85,14,2024-09-07,0.00,6.99,Completed,Card
+86,68,2024-10-09,0.00,4.99,Completed,Bank Transfer
+87,120,2023-11-03,0.00,14.99,Completed,PayPal
+88,162,2025-12-01,0.00,6.99,Completed,Card
+89,1,2025-11-13,0.00,14.99,Completed,Card
+90,29,2023-09-16,0.00,6.99,Completed,Bank Transfer
+91,36,2024-10-26,0.00,6.99,Completed,Card
+92,155,2023-05-30,0.10,4.99,Completed,Cash
+93,127,2024-07-08,0.00,14.99,Completed,Card
+94,139,2023-01-27,0.00,8.99,Completed,Bank Transfer
+95,20,2023-03-09,0.10,8.99,Completed,Card
+96,15,2023-12-27,0.00,8.99,Completed,Bank Transfer
+97,41,2025-12-26,0.06,6.99,Completed,Cash
+98,75,2025-08-25,0.10,4.99,Completed,Card
+99,112,2025-05-18,0.00,4.99,Completed,Card
+100,98,2025-08-23,0.00,6.99,Completed,PayPal
+101,71,2023-02-26,0.11,4.99,Completed,Cash
+102,162,2025-04-27,0.00,4.99,Completed,Card
+103,114,2023-11-10,0.00,6.99,Completed,PayPal
+104,92,2023-02-11,0.00,6.99,Completed,Card
+105,83,2023-11-24,0.11,6.99,Completed,Card
+106,107,2025-06-02,0.15,6.99,Completed,PayPal
+107,45,2024-05-17,0.00,6.99,Completed,Cash
+108,69,2026-01-25,0.00,4.99,Completed,Cash
+109,7,2025-11-08,0.00,6.99,Completed,Card
+110,141,2026-01-07,0.00,14.99,Completed,Cash
+111,120,2025-03-18,0.00,6.99,Completed,Bank Transfer
+112,95,2023-05-01,0.11,8.99,Completed,Card
+113,126,2024-11-20,0.00,6.99,Completed,Cash
+114,136,2025-07-12,0.00,4.99,Completed,Bank Transfer
+115,66,2023-09-17,0.14,8.99,Completed,Card
+116,130,2026-02-08,0.00,8.99,Completed,PayPal
+117,113,2023-11-18,0.00,8.99,Completed,Cash
+118,36,2025-06-06,0.00,8.99,Completed,Cash
+119,89,2024-01-03,0.13,4.99,Completed,Cash
+120,105,2025-12-20,0.15,8.99,Completed,Card
+121,13,2025-07-08,0.09,14.99,Completed,Bank Transfer
+122,1,2023-12-27,0.00,14.99,Completed,Cash
+123,101,2025-10-10,0.00,14.99,Completed,Cash
+124,132,2026-02-19,0.00,8.99,Completed,Bank Transfer
+125,22,2023-06-18,0.00,4.99,Completed,Card
+126,127,2025-01-11,0.09,8.99,Completed,PayPal
+127,53,2025-06-03,0.15,6.99,Completed,Card
+128,25,2024-08-12,0.00,14.99,Completed,PayPal
+129,42,2024-01-27,0.11,6.99,Completed,Bank Transfer
+130,49,2025-10-25,0.00,4.99,Completed,Bank Transfer
+131,143,2025-10-19,0.08,4.99,Completed,Card
+132,110,2023-09-08,0.00,8.99,Completed,Bank Transfer
+133,115,2025-07-22,0.07,4.99,Completed,Card
+134,146,2024-02-16,0.00,6.99,Completed,Cash
+135,1,2025-07-30,0.00,14.99,Completed,Cash
+136,63,2024-12-13,0.13,4.99,Completed,Cash
+137,138,2025-08-08,0.00,6.99,Completed,Cash
+138,54,2025-04-16,0.00,14.99,Completed,Bank Transfer
+139,159,2026-01-09,0.09,6.99,Completed,Cash
+140,84,2025-06-17,0.00,6.99,Completed,Bank Transfer
+141,105,2024-01-07,0.00,6.99,Completed,Bank Transfer
+142,62,2023-08-03,0.09,8.99,Completed,PayPal
+143,3,2024-08-01,0.00,14.99,Completed,PayPal
+144,38,2025-12-06,0.14,14.99,Completed,Cash
+145,68,2025-11-22,0.00,14.99,Completed,PayPal
+146,79,2024-05-31,0.11,8.99,Completed,Cash
+147,108,2024-03-31,0.13,14.99,Completed,Card
+148,4,2025-03-14,0.00,14.99,Completed,PayPal
+149,21,2025-07-28,0.00,4.99,Completed,Card
+150,10,2023-09-27,0.07,4.99,Completed,Bank Transfer
+151,28,2023-07-14,0.00,4.99,Completed,PayPal
+152,122,2025-10-15,0.00,4.99,Completed,Cash
+153,52,2024-08-01,0.00,4.99,Completed,Cash
+154,120,2023-09-23,0.05,6.99,Completed,Bank Transfer
+155,19,2026-02-14,0.00,14.99,Completed,Card
+156,14,2025-05-29,0.00,8.99,Completed,Card
+157,68,2023-03-15,0.00,4.99,Completed,Cash
+158,12,2025-10-04,0.00,4.99,Completed,Card
+159,26,2024-08-15,0.00,14.99,Completed,Card
+160,58,2023-06-18,0.00,14.99,Completed,PayPal
+161,16,2025-06-10,0.00,8.99,Completed,Card
+162,87,2024-09-21,0.00,4.99,Completed,PayPal
+163,97,2025-06-25,0.00,6.99,Completed,Card
+164,130,2024-09-29,0.00,4.99,Completed,Bank Transfer
+165,116,2026-02-04,0.14,4.99,Completed,Card
+166,13,2023-03-20,0.00,6.99,Completed,Card
+167,6,2024-11-25,0.13,4.99,Completed,Cash
+168,22,2025-05-11,0.00,6.99,Completed,Cash
+169,59,2025-04-28,0.00,8.99,Completed,Bank Transfer
+170,37,2024-07-04,0.06,6.99,Completed,Card
+171,139,2023-04-20,0.07,6.99,Completed,PayPal
+172,52,2023-01-11,0.00,6.99,Completed,PayPal
+173,83,2023-12-29,0.00,6.99,Completed,Cash
+174,149,2024-07-12,0.00,14.99,Completed,PayPal
+175,3,2024-05-13,0.00,4.99,Completed,Bank Transfer
+176,88,2023-07-01,0.00,6.99,Completed,Cash
+177,69,2023-08-23,0.07,8.99,Completed,Card
+178,154,2024-06-15,0.00,14.99,Completed,Card
+179,84,2024-08-01,0.08,6.99,Completed,Card
+180,6,2024-05-05,0.00,14.99,Completed,Card
+181,105,2024-07-16,0.00,4.99,Completed,PayPal
+182,153,2025-11-19,0.15,8.99,Completed,Bank Transfer
+183,138,2024-09-25,0.00,6.99,Completed,Bank Transfer
+184,6,2023-08-12,0.12,4.99,Completed,Bank Transfer
+185,128,2023-01-07,0.00,6.99,Completed,PayPal
+186,77,2023-10-28,0.11,8.99,Completed,Bank Transfer
+187,148,2025-05-30,0.00,4.99,Completed,PayPal
+188,88,2025-08-28,0.00,6.99,Completed,Cash
+189,153,2024-01-20,0.07,8.99,Completed,Bank Transfer
+190,66,2023-02-13,0.12,14.99,Completed,Bank Transfer
+191,138,2025-01-27,0.12,6.99,Completed,PayPal
+192,141,2024-11-30,0.00,6.99,Completed,Cash
+193,84,2025-03-10,0.10,14.99,Completed,Card
+194,80,2023-11-20,0.13,4.99,Completed,Card
+195,96,2024-05-07,0.00,8.99,Completed,Cash
+196,128,2024-09-17,0.00,4.99,Completed,PayPal
+197,1,2025-12-29,0.13,8.99,Completed,Card
+198,106,2025-08-12,0.00,6.99,Completed,Cash
+199,11,2026-01-14,0.00,4.99,Completed,Cash
+200,99,2023-11-13,0.00,14.99,Completed,Bank Transfer
+201,109,2025-04-01,0.00,8.99,Completed,PayPal
+202,26,2025-11-19,0.00,8.99,Completed,Card
+203,109,2025-12-13,0.00,6.99,Completed,Cash
+204,96,2025-04-29,0.09,4.99,Completed,Cash
+205,8,2025-06-16,0.09,14.99,Completed,Cash
+206,2,2025-12-22,0.00,8.99,Completed,Card
+207,60,2025-03-09,0.00,8.99,Completed,PayPal
+208,77,2025-07-01,0.00,6.99,Completed,Bank Transfer
+209,22,2023-12-05,0.00,6.99,Completed,Card
+210,114,2024-07-31,0.00,6.99,Completed,Card
+211,87,2023-04-05,0.13,8.99,Completed,Bank Transfer
+212,119,2025-07-04,0.09,14.99,Completed,Cash
+213,147,2024-07-30,0.09,8.99,Completed,Card
+214,67,2025-08-14,0.06,8.99,Completed,Card
+215,132,2024-08-31,0.00,6.99,Completed,PayPal
+216,149,2024-12-12,0.00,14.99,Completed,Card
+217,123,2025-03-05,0.00,14.99,Completed,Cash
+218,68,2023-03-12,0.00,4.99,Completed,Card
+219,87,2023-10-23,0.00,8.99,Completed,Bank Transfer
+220,1,2023-06-27,0.08,6.99,Completed,Cash
+221,19,2024-05-29,0.06,8.99,Completed,Cash
+222,17,2023-05-06,0.00,14.99,Completed,PayPal
+223,143,2023-11-25,0.05,14.99,Completed,Card
+224,156,2024-07-31,0.00,8.99,Completed,Cash
+225,122,2025-05-09,0.00,4.99,Completed,Card
+226,89,2023-08-09,0.00,4.99,Completed,Card
+227,56,2024-08-09,0.00,4.99,Completed,PayPal
+228,108,2025-03-28,0.00,8.99,Completed,Cash
+229,136,2023-09-18,0.00,6.99,Completed,Card
+230,54,2024-02-06,0.12,6.99,Completed,PayPal
+231,94,2025-01-23,0.00,8.99,Completed,PayPal
+232,115,2023-12-18,0.00,4.99,Completed,PayPal
+233,22,2023-04-24,0.00,4.99,Completed,Bank Transfer
+234,38,2025-08-13,0.00,8.99,Completed,Cash
+235,117,2024-05-09,0.11,4.99,Completed,Bank Transfer
+236,45,2024-08-04,0.15,14.99,Completed,Cash
+237,95,2024-10-07,0.00,8.99,Completed,PayPal
+238,150,2024-05-12,0.00,8.99,Completed,Bank Transfer
+239,102,2024-06-13,0.00,8.99,Completed,Cash
+240,115,2024-04-03,0.07,4.99,Completed,Cash
+241,21,2025-02-12,0.14,6.99,Completed,PayPal
+242,134,2023-08-25,0.00,4.99,Completed,Card
+243,38,2025-04-30,0.12,8.99,Completed,PayPal
+244,157,2024-12-21,0.00,6.99,Completed,PayPal
+245,31,2023-07-10,0.00,14.99,Completed,Cash
+246,44,2023-12-12,0.00,8.99,Completed,PayPal
+247,46,2025-03-08,0.00,14.99,Completed,Card
+248,117,2023-07-08,0.00,14.99,Completed,Card
+249,52,2023-04-23,0.00,6.99,Completed,Cash
+250,108,2023-09-02,0.00,8.99,Completed,Card
+251,160,2023-12-18,0.00,14.99,Completed,Card
+252,90,2024-07-19,0.10,4.99,Completed,Cash
+253,130,2024-09-07,0.00,14.99,Completed,Card
+254,140,2023-08-06,0.00,6.99,Completed,Card
+255,64,2023-09-28,0.00,6.99,Completed,PayPal
+256,104,2025-02-11,0.00,4.99,Completed,Cash
+257,96,2025-04-29,0.09,4.99,Completed,PayPal
+258,83,2025-06-10,0.00,6.99,Completed,Bank Transfer
+259,51,2025-10-30,0.00,14.99,Completed,Cash
+260,126,2025-08-06,0.10,14.99,Completed,Cash
+261,1,2025-11-02,0.00,8.99,Completed,Card
+262,135,2024-09-03,0.00,4.99,Completed,PayPal
+263,89,2025-07-02,0.00,4.99,Completed,Card
+264,65,2024-01-03,0.00,4.99,Completed,Card
+265,27,2024-12-26,0.00,6.99,Completed,Bank Transfer
+266,162,2024-10-16,0.10,14.99,Completed,Card
+267,121,2024-05-21,0.10,8.99,Completed,Cash
+268,128,2023-03-25,0.00,14.99,Completed,Bank Transfer
+269,77,2024-06-06,0.13,8.99,Completed,Card
+270,26,2024-11-18,0.00,8.99,Completed,Card
+271,79,2023-01-29,0.00,6.99,Completed,Cash
+272,97,2023-07-18,0.00,14.99,Completed,Bank Transfer
+273,6,2024-07-02,0.00,14.99,Completed,Bank Transfer
+274,111,2025-03-30,0.00,6.99,Completed,Cash
+275,66,2023-05-25,0.00,8.99,Completed,Cash
+276,115,2024-04-17,0.09,4.99,Completed,Cash
+277,116,2024-02-07,0.00,14.99,Completed,Card
+278,89,2024-05-10,0.00,6.99,Completed,Bank Transfer
+279,27,2024-05-27,0.08,6.99,Completed,Bank Transfer
+280,28,2023-12-30,0.00,6.99,Completed,PayPal
+281,8,2024-02-20,0.00,4.99,Completed,Card
+282,71,2023-06-29,0.00,14.99,Completed,Card
+283,56,2023-01-21,0.00,6.99,Completed,Card
+284,29,2023-11-17,0.09,8.99,Completed,Bank Transfer
+285,96,2023-09-24,0.00,4.99,Completed,Card
+286,68,2023-01-06,0.14,14.99,Completed,Cash
+287,120,2025-02-07,0.00,8.99,Completed,PayPal
+288,89,2025-04-09,0.11,4.99,Completed,PayPal
+289,18,2024-08-10,0.00,8.99,Completed,Cash
+290,44,2023-03-13,0.00,6.99,Completed,Card
+291,99,2025-03-11,0.00,4.99,Completed,PayPal
+292,46,2023-08-12,0.00,4.99,Completed,Bank Transfer
+293,60,2023-05-10,0.00,14.99,Completed,Cash
+294,162,2025-09-28,0.00,4.99,Completed,Bank Transfer
+295,113,2025-12-01,0.00,14.99,Completed,Bank Transfer
+296,101,2024-08-26,0.07,14.99,Completed,Cash
+297,17,2025-01-06,0.10,14.99,Completed,Bank Transfer
+298,117,2026-02-25,0.06,4.99,Completed,Card
+299,63,2024-09-02,0.00,14.99,Completed,Bank Transfer
+300,85,2023-07-10,0.00,14.99,Completed,Card
+301,143,2023-12-15,0.10,14.99,Completed,Cash
+302,143,2023-03-14,0.00,4.99,Completed,Card
+303,69,2023-04-05,0.00,6.99,Completed,Bank Transfer
+304,157,2023-09-23,0.00,8.99,Completed,Card
+305,79,2024-01-10,0.00,14.99,Completed,Bank Transfer
+306,21,2025-04-28,0.00,6.99,Completed,PayPal
+307,11,2024-10-05,0.00,6.99,Completed,PayPal
+308,153,2023-04-01,0.00,8.99,Completed,Card
+309,73,2024-08-15,0.00,8.99,Completed,Card
+310,37,2024-10-24,0.00,4.99,Completed,PayPal
+311,146,2026-01-23,0.00,14.99,Completed,Bank Transfer
+312,46,2023-05-14,0.08,8.99,Completed,PayPal
+313,15,2025-09-17,0.00,8.99,Completed,Bank Transfer
+314,82,2025-12-18,0.00,4.99,Completed,Card
+315,153,2024-08-23,0.08,4.99,Completed,Card
+316,70,2024-06-20,0.00,14.99,Completed,Bank Transfer
+317,27,2023-03-25,0.06,14.99,Completed,PayPal
+318,10,2024-06-29,0.00,8.99,Completed,Card
+319,80,2024-05-14,0.00,4.99,Completed,Bank Transfer
+320,85,2023-07-19,0.00,14.99,Completed,Bank Transfer
+321,146,2024-11-24,0.00,14.99,Completed,Bank Transfer
+322,152,2023-06-16,0.07,4.99,Completed,Cash
+323,63,2025-05-03,0.00,8.99,Completed,Bank Transfer
+324,145,2025-08-18,0.00,14.99,Completed,Card
+325,61,2025-09-12,0.00,4.99,Completed,Cash
+326,37,2023-05-19,0.07,6.99,Completed,PayPal
+327,80,2025-05-01,0.00,14.99,Completed,PayPal
+328,60,2023-04-10,0.00,6.99,Completed,Card
+329,79,2025-12-17,0.00,6.99,Completed,Card
+330,9,2024-09-06,0.00,14.99,Completed,Bank Transfer
+331,32,2023-02-28,0.00,4.99,Completed,Bank Transfer
+332,25,2025-11-22,0.00,14.99,Completed,Card
+333,153,2023-12-23,0.12,6.99,Completed,Cash
+334,130,2023-01-25,0.10,4.99,Completed,PayPal
+335,27,2023-08-07,0.00,8.99,Completed,Card
+336,130,2024-05-28,0.13,6.99,Completed,PayPal
+337,81,2023-10-10,0.14,6.99,Completed,Bank Transfer
+338,131,2023-06-17,0.00,4.99,Completed,PayPal
+339,105,2024-06-09,0.00,6.99,Completed,PayPal
+340,27,2025-11-29,0.00,14.99,Completed,Bank Transfer
+341,109,2025-08-26,0.00,6.99,Completed,Cash
+342,4,2025-06-05,0.11,8.99,Completed,PayPal
+343,15,2024-10-11,0.00,14.99,Completed,Cash
+344,113,2024-07-12,0.00,4.99,Completed,Card
+345,122,2024-08-27,0.00,4.99,Completed,Card
+346,101,2025-12-01,0.15,8.99,Completed,PayPal
+347,17,2024-08-29,0.00,4.99,Completed,Cash
+348,44,2024-07-29,0.00,14.99,Completed,Cash
+349,108,2025-11-01,0.00,14.99,Completed,Cash
+350,136,2025-10-05,0.12,8.99,Completed,PayPal
+351,37,2023-04-07,0.09,14.99,Completed,Card
+352,61,2023-09-24,0.00,6.99,Completed,Cash
+353,55,2024-10-29,0.12,14.99,Completed,Card
+354,80,2025-06-25,0.00,14.99,Completed,Cash
+355,48,2023-06-08,0.12,14.99,Completed,PayPal
+356,158,2023-10-07,0.00,8.99,Completed,PayPal
+357,81,2023-11-19,0.12,14.99,Completed,Cash
+358,36,2025-11-19,0.13,6.99,Completed,Bank Transfer
+359,115,2025-09-19,0.00,6.99,Completed,Bank Transfer
+360,71,2024-12-20,0.07,6.99,Completed,Bank Transfer
+361,31,2023-05-16,0.00,14.99,Completed,Bank Transfer
+362,5,2024-07-21,0.00,6.99,Completed,Bank Transfer
+363,54,2025-11-27,0.00,6.99,Completed,PayPal
+364,15,2025-03-16,0.00,14.99,Completed,Card
+365,19,2026-01-06,0.00,6.99,Completed,Card
+366,51,2025-07-24,0.00,4.99,Completed,Cash
+367,132,2025-02-18,0.12,8.99,Completed,Card
+368,66,2025-09-02,0.00,8.99,Completed,PayPal
+369,160,2025-04-09,0.00,4.99,Completed,Cash
+370,146,2023-09-23,0.00,8.99,Completed,Cash
+371,91,2024-05-30,0.00,6.99,Completed,PayPal
+372,113,2025-01-02,0.00,8.99,Completed,Cash
+373,88,2024-04-16,0.00,14.99,Completed,Card
+374,134,2025-09-10,0.09,8.99,Completed,Cash
+375,141,2023-03-27,0.12,14.99,Completed,Bank Transfer
+376,81,2025-09-06,0.07,8.99,Completed,PayPal
+377,119,2023-06-04,0.00,14.99,Completed,PayPal
+378,94,2024-02-07,0.00,4.99,Completed,Card
+379,141,2025-04-08,0.13,14.99,Completed,PayPal
+380,102,2024-12-11,0.00,4.99,Completed,Bank Transfer
+381,44,2024-12-08,0.00,6.99,Completed,Cash
+382,156,2024-04-19,0.00,8.99,Completed,Bank Transfer
+383,28,2024-01-21,0.00,14.99,Completed,Cash
+384,132,2025-06-13,0.00,14.99,Completed,Bank Transfer
+385,50,2024-11-23,0.00,8.99,Completed,Bank Transfer
+386,86,2026-02-07,0.00,8.99,Completed,PayPal
+387,15,2024-07-13,0.00,6.99,Completed,Card
+388,30,2025-10-15,0.12,8.99,Completed,PayPal
+389,122,2023-02-01,0.08,14.99,Completed,Bank Transfer
+390,90,2023-04-06,0.10,6.99,Completed,Cash
+391,74,2023-12-26,0.00,4.99,Completed,PayPal
+392,128,2023-08-24,0.00,8.99,Completed,PayPal
+393,85,2023-02-05,0.00,14.99,Completed,Cash
+394,126,2024-07-29,0.00,6.99,Completed,Card
+395,67,2025-08-26,0.08,8.99,Completed,PayPal
+396,59,2025-02-08,0.00,4.99,Completed,Cash
+397,10,2023-11-21,0.00,6.99,Completed,PayPal
+398,127,2025-04-21,0.00,6.99,Completed,Bank Transfer
+399,151,2023-10-31,0.00,14.99,Completed,Bank Transfer
+400,89,2023-08-27,0.00,6.99,Completed,Cash
+401,72,2025-04-28,0.00,8.99,Completed,Bank Transfer
+402,119,2025-12-11,0.00,8.99,Completed,Cash
+403,55,2024-06-08,0.00,14.99,Completed,Card
+404,104,2025-08-12,0.00,8.99,Completed,PayPal
+405,128,2023-12-09,0.00,14.99,Completed,Cash
+406,103,2023-02-16,0.00,6.99,Completed,Bank Transfer
+407,84,2025-07-15,0.00,14.99,Completed,Cash
+408,75,2025-09-22,0.05,6.99,Completed,Card
+409,146,2024-02-20,0.00,6.99,Completed,Card
+410,26,2024-04-17,0.00,8.99,Completed,Cash
+411,30,2025-02-17,0.06,4.99,Completed,Card
+412,67,2025-01-10,0.14,8.99,Completed,PayPal
+413,112,2025-09-06,0.00,6.99,Completed,Cash
+414,49,2025-01-30,0.00,4.99,Completed,Bank Transfer
+415,52,2026-02-01,0.12,14.99,Completed,Bank Transfer
+416,154,2023-05-06,0.07,14.99,Completed,Card
+417,77,2023-08-19,0.00,6.99,Completed,PayPal
+418,40,2024-04-12,0.00,4.99,Completed,Card
+419,89,2023-01-02,0.00,14.99,Completed,Card
+420,36,2024-12-28,0.00,8.99,Completed,Cash
+421,27,2025-02-25,0.11,4.99,Completed,Bank Transfer
+422,123,2024-01-17,0.00,14.99,Completed,PayPal
+423,125,2023-12-15,0.00,4.99,Completed,Bank Transfer
+424,49,2025-04-27,0.11,14.99,Completed,Cash
+425,123,2024-01-25,0.00,4.99,Completed,Cash
+426,30,2026-02-05,0.00,14.99,Completed,Cash
+427,157,2025-09-23,0.00,6.99,Completed,Card
+428,102,2024-06-28,0.00,14.99,Completed,Cash
+429,8,2023-03-15,0.00,8.99,Completed,Card
+430,69,2025-04-19,0.00,8.99,Completed,Cash
+431,100,2023-03-04,0.00,14.99,Completed,PayPal
+432,50,2024-10-18,0.14,14.99,Completed,Card
+433,119,2026-02-09,0.12,6.99,Completed,Cash
+434,65,2024-11-12,0.05,14.99,Completed,Bank Transfer
+435,129,2024-08-06,0.00,4.99,Completed,PayPal
+436,152,2024-08-02,0.00,14.99,Completed,Bank Transfer
+437,16,2023-02-23,0.11,6.99,Completed,Cash
+438,103,2025-03-12,0.00,14.99,Completed,Card
+439,88,2023-07-21,0.00,8.99,Completed,Bank Transfer
+440,94,2026-02-26,0.00,6.99,Completed,Bank Transfer
+441,3,2025-03-16,0.00,4.99,Completed,Cash
+442,31,2026-02-22,0.00,4.99,Completed,Card
+443,49,2023-08-24,0.00,14.99,Completed,PayPal
+444,104,2025-02-11,0.00,4.99,Completed,Cash
+445,16,2024-12-09,0.06,4.99,Completed,Cash
+446,65,2025-12-02,0.00,6.99,Completed,Cash
+447,3,2025-09-28,0.00,14.99,Completed,Cash
+448,88,2024-05-13,0.00,6.99,Completed,Cash
+449,81,2024-07-03,0.06,8.99,Completed,Bank Transfer
+450,43,2025-10-16,0.00,6.99,Completed,PayPal
+451,59,2023-04-23,0.00,14.99,Completed,PayPal
+452,83,2025-10-01,0.10,4.99,Completed,Cash
+453,116,2023-06-03,0.00,6.99,Completed,PayPal
+454,92,2025-08-20,0.00,14.99,Completed,Bank Transfer
+455,48,2024-07-20,0.00,6.99,Completed,Cash
+456,138,2026-01-01,0.00,4.99,Completed,Cash
+457,143,2024-09-23,0.00,14.99,Completed,Bank Transfer
+458,141,2025-04-23,0.00,4.99,Completed,Card
+459,28,2025-03-03,0.10,14.99,Completed,PayPal
+460,114,2024-10-13,0.14,8.99,Completed,PayPal
+461,162,2025-10-04,0.00,6.99,Completed,Cash
+462,109,2024-04-29,0.00,4.99,Completed,PayPal
+463,162,2025-08-09,0.00,4.99,Completed,PayPal
+464,78,2024-08-29,0.00,6.99,Completed,Cash
+465,28,2024-03-26,0.00,4.99,Completed,Card
+466,155,2025-02-09,0.00,6.99,Completed,Cash
+467,85,2025-02-13,0.15,6.99,Completed,Cash
+468,51,2024-10-31,0.05,6.99,Completed,PayPal
+469,105,2025-01-13,0.00,8.99,Completed,PayPal
+470,152,2024-11-03,0.00,14.99,Completed,Bank Transfer
+471,78,2023-01-30,0.00,6.99,Completed,PayPal
+472,76,2023-09-02,0.00,8.99,Completed,Cash
+473,33,2025-01-24,0.00,6.99,Completed,PayPal
+474,68,2023-02-02,0.09,6.99,Completed,Card
+475,55,2026-01-26,0.08,4.99,Completed,Cash
+476,103,2023-03-16,0.00,14.99,Completed,Cash
+477,2,2026-01-19,0.06,4.99,Completed,Bank Transfer
+478,73,2025-04-03,0.00,4.99,Completed,Cash
+479,3,2025-08-19,0.00,4.99,Completed,Card
+480,132,2023-02-16,0.12,6.99,Completed,Bank Transfer
+481,92,2024-10-29,0.00,4.99,Completed,PayPal
+482,41,2024-06-27,0.00,8.99,Completed,Cash
+483,134,2023-04-03,0.09,6.99,Completed,Card
+484,19,2026-02-07,0.00,14.99,Completed,Bank Transfer
+485,19,2023-12-06,0.00,14.99,Completed,Cash
+486,154,2024-03-09,0.00,4.99,Completed,Cash
+487,31,2023-04-15,0.06,4.99,Completed,Bank Transfer
+488,160,2024-05-23,0.00,14.99,Completed,Bank Transfer
+489,121,2026-02-09,0.00,8.99,Completed,PayPal
+490,30,2023-10-03,0.00,8.99,Completed,Bank Transfer
+491,84,2023-02-27,0.09,14.99,Completed,Card
+492,91,2025-04-29,0.00,14.99,Completed,Cash
+493,125,2023-02-09,0.07,6.99,Completed,Cash
+494,36,2024-12-02,0.00,4.99,Completed,Cash
+495,65,2026-01-15,0.00,4.99,Completed,Cash
+496,149,2024-12-04,0.00,8.99,Completed,Cash
+497,73,2024-05-26,0.05,6.99,Completed,Cash
+498,92,2024-11-24,0.00,8.99,Completed,PayPal
+499,76,2023-06-14,0.00,4.99,Completed,PayPal
+500,149,2024-12-25,0.00,4.99,Completed,Card
+501,40,2026-02-10,0.00,4.99,Completed,PayPal
+502,102,2024-07-27,0.00,8.99,Completed,Card
+503,105,2026-02-15,0.00,4.99,Completed,Cash
+504,85,2024-09-24,0.00,6.99,Completed,Bank Transfer
+505,56,2023-08-17,0.08,6.99,Completed,Bank Transfer
+506,137,2023-11-12,0.09,8.99,Completed,Cash
+507,101,2025-05-21,0.08,14.99,Completed,Cash
+508,131,2023-09-24,0.15,8.99,Completed,Cash
+509,26,2024-07-01,0.06,14.99,Completed,Bank Transfer
+510,75,2025-12-31,0.00,14.99,Completed,PayPal
+511,134,2025-10-20,0.06,14.99,Completed,Bank Transfer
+512,81,2023-03-11,0.14,14.99,Completed,PayPal
+513,154,2024-12-31,0.00,8.99,Completed,PayPal
+514,128,2023-08-07,0.00,6.99,Completed,Bank Transfer
+515,133,2023-08-06,0.00,14.99,Completed,Bank Transfer
+516,58,2024-05-28,0.00,6.99,Completed,Bank Transfer
+517,110,2026-01-11,0.14,6.99,Completed,Bank Transfer
+518,85,2025-10-25,0.13,6.99,Completed,Bank Transfer
+519,148,2025-05-10,0.12,8.99,Completed,Card
+520,109,2026-01-04,0.14,6.99,Completed,Bank Transfer
+521,47,2025-10-27,0.00,6.99,Completed,Bank Transfer
+522,141,2023-03-04,0.00,4.99,Completed,Bank Transfer
+523,16,2025-02-26,0.00,8.99,Completed,Cash
+524,110,2025-12-17,0.00,8.99,Completed,PayPal
+525,62,2023-06-16,0.00,6.99,Completed,PayPal
+526,86,2025-10-10,0.09,8.99,Completed,Card
+527,16,2025-05-16,0.00,4.99,Completed,Card
+528,142,2023-11-21,0.06,4.99,Completed,PayPal
+529,36,2024-06-10,0.00,8.99,Completed,Bank Transfer
+530,100,2025-07-25,0.00,8.99,Completed,Cash
+531,64,2024-12-25,0.14,8.99,Completed,Card
+532,31,2024-04-06,0.00,4.99,Completed,PayPal
+533,84,2024-06-17,0.09,14.99,Completed,Bank Transfer
+534,96,2024-08-21,0.11,8.99,Completed,Bank Transfer
+535,103,2024-12-26,0.00,6.99,Completed,Bank Transfer
+536,80,2025-06-25,0.00,14.99,Completed,Card
+537,127,2025-01-11,0.09,6.99,Completed,Card
+538,74,2025-04-08,0.00,14.99,Completed,Cash
+539,62,2023-04-19,0.00,6.99,Completed,Bank Transfer
+540,124,2024-09-05,0.00,4.99,Completed,Card
+541,129,2025-02-09,0.13,14.99,Completed,Cash
+542,90,2023-01-25,0.00,4.99,Completed,Cash
+543,98,2025-06-09,0.00,14.99,Completed,Bank Transfer
+544,135,2025-10-04,0.13,4.99,Completed,PayPal
+545,24,2023-07-09,0.00,6.99,Completed,Bank Transfer
+546,151,2023-08-14,0.00,6.99,Completed,Card
+547,100,2025-03-03,0.00,14.99,Completed,Bank Transfer
+548,95,2023-12-03,0.11,4.99,Completed,PayPal
+549,116,2025-05-08,0.00,8.99,Completed,PayPal
+550,159,2023-04-21,0.00,6.99,Completed,PayPal
+551,141,2024-03-16,0.00,6.99,Completed,Card
+552,74,2025-09-07,0.14,14.99,Completed,Cash
+553,18,2025-01-13,0.10,4.99,Completed,PayPal
+554,147,2025-03-05,0.11,8.99,Completed,PayPal
+555,98,2025-07-21,0.00,8.99,Completed,Bank Transfer
+556,74,2024-08-04,0.00,6.99,Completed,Bank Transfer
+557,49,2023-03-15,0.00,14.99,Completed,Card
+558,67,2024-03-19,0.00,6.99,Completed,PayPal
+559,151,2025-10-09,0.00,6.99,Completed,Card
+560,91,2024-02-07,0.00,6.99,Completed,Cash
+561,77,2024-10-04,0.00,4.99,Completed,PayPal
+562,50,2025-12-14,0.14,6.99,Completed,PayPal
+563,35,2024-07-09,0.09,14.99,Completed,PayPal
+564,149,2024-12-30,0.00,4.99,Completed,Cash
+565,138,2025-10-17,0.13,4.99,Completed,Cash
+566,26,2025-10-19,0.07,14.99,Completed,Cash
+567,71,2024-04-17,0.09,14.99,Completed,PayPal
+568,17,2025-03-02,0.00,8.99,Completed,Cash
+569,158,2025-11-24,0.00,8.99,Completed,Bank Transfer
+570,20,2025-01-08,0.08,4.99,Completed,Card
+571,132,2024-09-15,0.00,8.99,Completed,PayPal
+572,1,2023-08-28,0.00,6.99,Completed,Cash
+573,12,2024-06-10,0.00,4.99,Completed,Bank Transfer
+574,15,2026-02-06,0.00,4.99,Completed,Cash
+575,98,2023-09-13,0.00,14.99,Completed,Cash
+576,79,2023-07-25,0.00,8.99,Completed,Bank Transfer
+577,42,2025-07-29,0.00,4.99,Completed,Cash
+578,103,2023-04-12,0.00,6.99,Completed,PayPal
+579,140,2024-03-15,0.00,6.99,Completed,Card
+580,77,2025-12-11,0.00,6.99,Completed,Cash
+581,64,2026-02-02,0.12,4.99,Completed,Bank Transfer
+582,100,2024-11-30,0.00,4.99,Completed,Card
+583,3,2025-08-27,0.00,4.99,Completed,PayPal
+584,129,2025-10-11,0.00,6.99,Completed,Card
+585,55,2023-12-17,0.00,8.99,Completed,PayPal
+586,15,2025-02-28,0.00,8.99,Completed,Bank Transfer
+587,109,2024-08-29,0.00,8.99,Completed,Bank Transfer
+588,86,2023-06-17,0.00,6.99,Completed,Card
+589,36,2023-02-09,0.00,6.99,Completed,Bank Transfer
+590,6,2024-06-18,0.00,8.99,Completed,Bank Transfer
+591,146,2023-05-01,0.14,14.99,Completed,Cash
+592,126,2024-10-01,0.00,8.99,Completed,PayPal
+593,39,2024-03-23,0.00,14.99,Completed,Card
+594,101,2025-08-04,0.00,8.99,Completed,Bank Transfer
+595,18,2023-01-10,0.10,6.99,Completed,Bank Transfer
+596,139,2025-03-06,0.08,4.99,Completed,Card
+597,135,2024-10-18,0.00,4.99,Completed,Cash
+598,133,2025-08-08,0.00,14.99,Completed,Card
+599,18,2023-08-16,0.00,8.99,Completed,PayPal
+600,71,2026-01-12,0.00,8.99,Completed,PayPal
+601,155,2023-04-12,0.00,8.99,Completed,PayPal
+602,157,2023-02-03,0.00,4.99,Completed,Card
+603,62,2024-01-03,0.00,6.99,Completed,Cash
+604,89,2025-07-01,0.00,4.99,Completed,Card
+605,5,2025-04-14,0.00,8.99,Completed,Bank Transfer
+606,44,2024-06-21,0.00,4.99,Completed,Cash
+607,35,2023-01-31,0.00,6.99,Completed,Cash
+608,66,2023-06-09,0.00,4.99,Completed,PayPal
+609,11,2024-06-15,0.00,4.99,Completed,Cash
+610,118,2024-01-14,0.00,6.99,Completed,Card
+611,128,2024-08-15,0.00,8.99,Completed,Bank Transfer
+612,21,2025-08-18,0.09,8.99,Completed,Cash
+613,63,2023-01-23,0.12,6.99,Completed,Cash
+614,86,2024-06-29,0.10,14.99,Completed,Cash
+615,55,2024-01-28,0.00,6.99,Completed,Card
+616,103,2024-10-18,0.15,4.99,Completed,PayPal
+617,32,2025-07-11,0.00,8.99,Completed,Card
+618,141,2025-06-25,0.00,6.99,Completed,Cash
+619,124,2025-10-20,0.00,4.99,Completed,Card
+620,158,2025-03-23,0.00,14.99,Completed,PayPal
+621,47,2025-03-06,0.00,14.99,Completed,PayPal
+622,12,2025-06-21,0.00,4.99,Completed,Cash
+623,147,2023-08-22,0.00,14.99,Completed,Cash
+624,77,2023-06-02,0.00,14.99,Completed,Cash
+625,94,2025-01-20,0.00,8.99,Completed,PayPal
+626,13,2024-12-07,0.08,14.99,Completed,Card
+627,91,2024-06-16,0.00,14.99,Completed,Bank Transfer
+628,72,2024-02-29,0.00,6.99,Completed,PayPal
+629,2,2023-03-08,0.00,4.99,Completed,Bank Transfer
+630,92,2024-07-13,0.07,14.99,Completed,PayPal
+631,116,2024-10-31,0.06,4.99,Completed,PayPal
+632,159,2025-05-12,0.12,4.99,Completed,Bank Transfer
+633,15,2024-11-01,0.00,6.99,Completed,Cash
+634,158,2024-04-16,0.00,6.99,Completed,PayPal
+635,155,2025-09-28,0.00,14.99,Completed,PayPal
+636,71,2024-06-26,0.00,14.99,Completed,Bank Transfer
+637,33,2023-09-28,0.00,4.99,Completed,Bank Transfer
+638,117,2023-07-25,0.07,8.99,Completed,Bank Transfer
+639,157,2024-06-14,0.00,8.99,Completed,Bank Transfer
+640,53,2023-06-20,0.09,8.99,Completed,PayPal
+641,10,2025-04-21,0.00,4.99,Completed,Card
+642,136,2024-06-08,0.09,14.99,Completed,Cash
+643,37,2025-10-18,0.06,4.99,Completed,Cash
+644,136,2025-08-16,0.00,14.99,Completed,Bank Transfer
+645,143,2025-11-22,0.14,14.99,Completed,Cash
+646,44,2023-12-15,0.00,8.99,Completed,Bank Transfer
+647,92,2023-09-11,0.00,6.99,Completed,PayPal
+648,98,2024-04-27,0.00,4.99,Completed,Card
+649,134,2025-10-10,0.15,4.99,Completed,Bank Transfer
+650,40,2024-01-16,0.11,6.99,Completed,Bank Transfer
+651,135,2025-10-06,0.13,6.99,Completed,Bank Transfer
+652,18,2024-11-14,0.00,6.99,Completed,Cash
+653,160,2023-06-17,0.09,14.99,Completed,PayPal
+654,135,2023-10-17,0.06,4.99,Completed,Cash
+655,34,2023-05-15,0.09,6.99,Completed,Card
+656,36,2024-05-04,0.00,4.99,Completed,PayPal
+657,39,2023-09-30,0.00,8.99,Completed,Bank Transfer
+658,9,2025-10-07,0.00,6.99,Completed,PayPal
+659,27,2025-02-08,0.07,8.99,Completed,Bank Transfer
+660,22,2025-10-01,0.06,14.99,Completed,PayPal
+661,20,2024-05-27,0.15,6.99,Completed,PayPal
+662,10,2024-08-04,0.00,4.99,Completed,Card
+663,82,2024-04-30,0.00,8.99,Completed,Bank Transfer
+664,46,2025-03-11,0.00,4.99,Completed,PayPal
+665,53,2023-03-25,0.00,8.99,Completed,PayPal
+666,93,2023-06-29,0.00,14.99,Completed,Cash
+667,103,2024-03-11,0.13,14.99,Completed,Cash
+668,28,2025-01-07,0.00,8.99,Completed,PayPal
+669,28,2023-08-22,0.00,14.99,Completed,Card
+670,129,2024-12-06,0.00,8.99,Completed,Bank Transfer
+671,98,2024-03-31,0.00,8.99,Completed,Bank Transfer
+672,151,2023-12-10,0.11,4.99,Completed,Cash
+673,32,2024-08-18,0.09,4.99,Completed,Card
+674,110,2025-07-27,0.00,14.99,Completed,Bank Transfer
+675,94,2024-08-24,0.13,8.99,Completed,Cash
+676,103,2024-03-07,0.13,14.99,Completed,Cash
+677,6,2023-03-21,0.00,14.99,Completed,Card
+678,107,2026-01-04,0.06,4.99,Completed,PayPal
+679,11,2023-04-11,0.00,14.99,Completed,Bank Transfer
+680,154,2025-10-10,0.00,4.99,Completed,Card
+681,153,2024-06-14,0.00,4.99,Completed,Bank Transfer
+682,110,2023-04-27,0.00,4.99,Completed,Bank Transfer
+683,37,2024-07-11,0.08,4.99,Completed,PayPal
+684,87,2023-02-22,0.00,14.99,Completed,Bank Transfer
+685,135,2023-12-27,0.00,6.99,Completed,Card
+686,139,2023-06-05,0.00,4.99,Completed,Cash
+687,154,2023-10-28,0.00,8.99,Completed,Cash
+688,157,2025-10-18,0.00,14.99,Completed,Card
+689,160,2024-05-18,0.00,14.99,Completed,Cash
+690,78,2023-10-20,0.09,6.99,Completed,Bank Transfer
+691,78,2024-09-18,0.00,14.99,Completed,Card
+692,42,2025-10-19,0.00,8.99,Completed,Cash
+693,151,2024-07-04,0.00,8.99,Completed,Bank Transfer
+694,100,2024-09-28,0.15,4.99,Completed,Cash
+695,107,2023-08-31,0.00,8.99,Completed,Cash
+696,5,2025-06-30,0.05,6.99,Completed,Card
+697,92,2023-11-13,0.00,8.99,Completed,Bank Transfer
+698,136,2024-04-02,0.00,4.99,Completed,PayPal
+699,111,2024-03-25,0.09,4.99,Completed,PayPal
+700,73,2024-08-12,0.00,8.99,Completed,Card
+701,24,2023-08-29,0.00,6.99,Completed,Cash
+702,111,2023-07-26,0.13,4.99,Completed,PayPal
+703,126,2025-10-09,0.00,8.99,Completed,Card
+704,8,2024-10-21,0.14,6.99,Completed,Card
+705,54,2024-04-17,0.00,4.99,Completed,Card
+706,153,2025-03-01,0.00,14.99,Completed,Bank Transfer
+707,105,2024-10-01,0.10,4.99,Completed,PayPal
+708,92,2024-11-02,0.00,6.99,Completed,Card
+709,31,2025-07-26,0.00,4.99,Completed,Bank Transfer
+710,151,2023-07-09,0.00,8.99,Completed,Cash
+711,119,2024-10-21,0.00,8.99,Completed,Bank Transfer
+712,21,2025-02-22,0.00,4.99,Completed,Cash
+713,22,2025-10-01,0.07,14.99,Completed,Card
+714,89,2024-10-24,0.00,6.99,Completed,PayPal
+715,91,2023-02-21,0.00,8.99,Completed,Card
+716,33,2024-07-10,0.11,8.99,Completed,Bank Transfer
+717,65,2025-01-08,0.00,4.99,Completed,Cash
+718,162,2024-12-15,0.00,8.99,Completed,Card
+719,23,2024-11-25,0.00,4.99,Completed,Card
+720,1,2025-03-04,0.00,4.99,Completed,Card
+721,89,2023-09-21,0.00,14.99,Completed,Bank Transfer
+722,78,2025-12-19,0.00,6.99,Completed,PayPal
+723,84,2025-08-16,0.00,8.99,Completed,PayPal
+724,16,2023-12-29,0.00,6.99,Completed,PayPal
+725,58,2023-04-12,0.00,8.99,Completed,Card
+726,23,2025-03-04,0.00,4.99,Completed,Card
+727,16,2024-03-27,0.00,4.99,Completed,Bank Transfer
+728,149,2025-11-16,0.08,14.99,Completed,Bank Transfer
+729,2,2023-05-04,0.00,4.99,Completed,PayPal
+730,101,2023-04-07,0.00,8.99,Completed,Card
+731,26,2023-10-28,0.09,6.99,Completed,Cash
+732,26,2024-10-11,0.00,4.99,Completed,Card
+733,58,2024-08-25,0.00,4.99,Completed,Card
+734,36,2025-02-26,0.12,6.99,Completed,Card
+735,146,2024-01-25,0.14,8.99,Completed,Cash
+736,140,2023-11-14,0.07,6.99,Completed,Cash
+737,126,2025-05-31,0.00,4.99,Completed,Cash
+738,152,2025-09-19,0.00,14.99,Completed,Bank Transfer
+739,63,2024-10-21,0.00,14.99,Completed,Bank Transfer
+740,91,2024-06-29,0.00,14.99,Completed,Bank Transfer
+741,97,2023-09-14,0.00,4.99,Completed,Card
+742,4,2023-04-06,0.00,8.99,Completed,PayPal
+743,66,2023-09-18,0.14,8.99,Completed,Cash
+744,90,2023-12-27,0.11,6.99,Completed,Bank Transfer
+745,27,2023-12-29,0.00,6.99,Completed,Card
+746,18,2023-09-09,0.07,8.99,Completed,Card
+747,37,2025-09-03,0.00,4.99,Completed,PayPal
+748,159,2023-11-02,0.00,4.99,Completed,PayPal
+749,143,2024-02-12,0.00,8.99,Completed,PayPal
+750,33,2023-08-23,0.00,6.99,Completed,Card
+751,13,2023-04-21,0.00,14.99,Completed,Bank Transfer
+752,24,2025-04-26,0.00,14.99,Completed,Card
+753,121,2024-01-27,0.00,6.99,Completed,Card
+754,74,2023-04-10,0.00,4.99,Completed,Card
+755,10,2023-08-08,0.08,4.99,Completed,Cash
+756,113,2024-04-03,0.08,14.99,Completed,PayPal
+757,15,2025-05-29,0.00,6.99,Completed,Cash
+758,28,2024-03-12,0.00,14.99,Completed,Bank Transfer
+759,127,2024-04-11,0.00,4.99,Completed,Bank Transfer
+760,66,2025-02-23,0.00,14.99,Completed,Card
+761,64,2025-09-30,0.00,4.99,Completed,PayPal
+762,136,2023-02-13,0.00,6.99,Completed,Cash
+763,22,2024-06-13,0.06,14.99,Completed,Cash
+764,31,2025-03-01,0.08,14.99,Completed,Bank Transfer
+765,86,2025-06-05,0.00,14.99,Completed,Card
+766,105,2025-10-11,0.00,8.99,Completed,Bank Transfer
+767,147,2024-10-02,0.00,8.99,Completed,Card
+768,132,2024-10-02,0.00,4.99,Completed,Card
+769,141,2025-05-03,0.00,4.99,Completed,Bank Transfer
+770,137,2024-07-10,0.15,4.99,Completed,Card
+771,115,2024-02-20,0.00,6.99,Completed,PayPal
+772,159,2023-05-19,0.00,14.99,Completed,Bank Transfer
+773,13,2023-02-04,0.10,8.99,Completed,Cash
+774,60,2024-12-12,0.06,6.99,Completed,PayPal
+775,24,2025-06-14,0.00,14.99,Completed,Card
+776,22,2023-06-29,0.00,6.99,Completed,Card
+777,26,2024-07-07,0.07,4.99,Completed,PayPal
+778,45,2024-10-14,0.00,6.99,Completed,PayPal
+779,33,2023-04-04,0.13,8.99,Completed,Cash
+780,28,2025-05-19,0.00,4.99,Completed,Cash
+781,37,2025-03-06,0.13,8.99,Completed,Card
+782,16,2024-03-18,0.00,14.99,Completed,Card
+783,85,2023-12-19,0.14,6.99,Completed,Bank Transfer
+784,63,2025-01-11,0.00,6.99,Completed,PayPal
+785,146,2025-03-28,0.07,4.99,Completed,PayPal
+786,65,2023-07-09,0.00,8.99,Completed,Cash
+787,117,2024-12-01,0.11,4.99,Completed,Cash
+788,121,2025-12-16,0.00,6.99,Completed,PayPal
+789,72,2026-02-16,0.00,4.99,Completed,Card
+790,90,2025-03-19,0.06,4.99,Completed,Cash
+791,21,2025-02-28,0.00,4.99,Completed,Bank Transfer
+792,89,2023-10-31,0.00,8.99,Completed,Bank Transfer
+793,27,2024-09-09,0.00,6.99,Completed,Bank Transfer
+794,65,2024-06-05,0.00,14.99,Completed,PayPal
+795,102,2026-01-30,0.00,4.99,Completed,Cash
+796,29,2024-03-19,0.00,14.99,Completed,Bank Transfer
+797,62,2026-01-30,0.12,6.99,Completed,Card
+798,100,2024-05-09,0.00,4.99,Completed,Card
+799,58,2023-07-04,0.07,14.99,Completed,PayPal
+800,32,2024-02-12,0.00,14.99,Completed,Bank Transfer
+801,48,2023-05-23,0.08,6.99,Completed,Card
+802,114,2025-10-11,0.00,14.99,Completed,Cash
+803,118,2023-09-06,0.14,8.99,Completed,Cash
+804,72,2025-08-27,0.14,14.99,Completed,Cash
+805,96,2025-04-11,0.05,8.99,Completed,Bank Transfer
+806,88,2023-06-05,0.00,14.99,Completed,Card
+807,134,2025-11-23,0.00,14.99,Completed,Cash
+808,31,2024-06-11,0.07,4.99,Completed,PayPal
+809,117,2025-09-19,0.00,4.99,Completed,Card
+810,19,2024-01-06,0.00,6.99,Completed,Card
+811,38,2025-12-10,0.06,6.99,Completed,PayPal
+812,70,2023-01-08,0.12,6.99,Completed,PayPal
+813,46,2024-03-04,0.00,14.99,Completed,Bank Transfer
+814,145,2023-08-20,0.00,4.99,Completed,Card
+815,86,2023-12-11,0.11,6.99,Completed,Cash
+816,19,2025-04-24,0.00,6.99,Completed,Bank Transfer
+817,161,2024-09-15,0.05,14.99,Completed,Cash
+818,44,2023-07-25,0.00,14.99,Completed,Cash
+819,25,2024-11-13,0.00,8.99,Completed,Card
+820,27,2024-12-29,0.00,6.99,Completed,Cash
+821,36,2023-05-24,0.09,6.99,Completed,Cash
+822,61,2023-03-24,0.00,14.99,Completed,Card
+823,114,2023-06-24,0.00,14.99,Completed,Bank Transfer
+824,100,2023-04-05,0.00,8.99,Completed,Cash
+825,109,2024-06-22,0.00,4.99,Completed,Card
+826,144,2023-05-15,0.08,8.99,Completed,Bank Transfer
+827,56,2024-04-09,0.12,8.99,Completed,Cash
+828,126,2024-07-23,0.00,6.99,Completed,Bank Transfer
+829,63,2024-06-04,0.00,4.99,Completed,Card
+830,113,2025-10-23,0.00,4.99,Completed,PayPal
+831,125,2025-12-05,0.00,14.99,Completed,Card
+832,87,2023-02-16,0.00,14.99,Completed,PayPal
+833,109,2024-01-10,0.00,4.99,Completed,PayPal
+834,50,2024-01-06,0.00,8.99,Completed,PayPal
+835,158,2024-02-09,0.06,4.99,Completed,Bank Transfer
+836,24,2023-07-20,0.00,8.99,Completed,Bank Transfer
+837,152,2025-04-20,0.05,8.99,Completed,PayPal
+838,6,2025-01-26,0.00,14.99,Completed,Bank Transfer
+839,85,2023-06-21,0.00,6.99,Completed,PayPal
+840,74,2025-01-23,0.11,4.99,Completed,Card
+841,144,2023-08-26,0.00,6.99,Completed,Card
+842,159,2024-05-21,0.00,4.99,Completed,Cash
+843,59,2026-01-25,0.14,4.99,Completed,Cash
+844,39,2023-03-05,0.00,8.99,Completed,PayPal
+845,126,2023-10-03,0.12,8.99,Completed,Cash
+846,15,2023-06-26,0.00,4.99,Completed,Bank Transfer
+847,127,2024-08-24,0.00,14.99,Completed,Card
+848,8,2023-01-16,0.11,4.99,Completed,Bank Transfer
+849,146,2025-12-11,0.06,6.99,Completed,Card
+850,112,2024-05-22,0.00,6.99,Completed,Card
+851,5,2024-10-04,0.00,14.99,Completed,Card
+852,111,2023-12-16,0.00,6.99,Completed,Bank Transfer
+853,21,2025-12-02,0.00,6.99,Completed,Cash
+854,112,2023-10-30,0.00,6.99,Completed,PayPal
+855,94,2023-04-11,0.08,6.99,Completed,Cash
+856,82,2023-06-13,0.00,8.99,Completed,Cash
+857,25,2024-11-06,0.00,8.99,Completed,PayPal
+858,24,2025-12-29,0.00,8.99,Completed,PayPal
+859,159,2023-02-02,0.00,14.99,Completed,Card
+860,74,2023-05-10,0.00,8.99,Completed,Bank Transfer
+861,159,2024-06-27,0.00,8.99,Completed,Cash
+862,25,2026-02-18,0.00,8.99,Completed,Cash
+863,138,2024-01-11,0.00,6.99,Completed,PayPal
+864,64,2025-08-15,0.09,14.99,Completed,Bank Transfer
+865,157,2024-06-24,0.00,14.99,Completed,Bank Transfer
+866,140,2025-02-18,0.14,4.99,Completed,Cash
+867,4,2023-05-14,0.00,4.99,Completed,Cash
+868,70,2026-01-22,0.00,14.99,Completed,PayPal
+869,30,2023-12-05,0.12,14.99,Completed,Cash
+870,129,2023-03-23,0.12,6.99,Completed,Bank Transfer
+871,14,2025-12-07,0.00,4.99,Completed,PayPal
+872,62,2023-09-15,0.07,14.99,Completed,Cash
+873,108,2024-03-02,0.07,6.99,Completed,PayPal
+874,135,2023-10-12,0.14,6.99,Completed,PayPal
+875,86,2025-09-10,0.00,14.99,Completed,Card
+876,66,2024-05-28,0.00,14.99,Completed,Bank Transfer
+877,80,2023-08-06,0.00,14.99,Completed,PayPal
+878,33,2024-06-25,0.08,6.99,Completed,Bank Transfer
+879,147,2023-06-20,0.00,8.99,Completed,Cash
+880,6,2025-10-04,0.00,8.99,Completed,Bank Transfer
+881,14,2025-08-31,0.08,8.99,Completed,Cash
+882,118,2024-12-16,0.12,14.99,Completed,Cash
+883,73,2025-10-19,0.00,14.99,Completed,PayPal
+884,31,2025-07-15,0.00,14.99,Completed,PayPal
+885,159,2025-09-19,0.00,6.99,Completed,Card
+886,14,2025-11-30,0.00,14.99,Completed,Bank Transfer
+887,96,2023-08-26,0.00,8.99,Completed,PayPal
+888,2,2023-09-08,0.00,8.99,Completed,Card
+889,88,2024-04-06,0.00,8.99,Completed,Card
+890,15,2025-07-02,0.00,4.99,Completed,Cash
+891,58,2025-08-03,0.00,8.99,Completed,Cash
+892,4,2025-08-08,0.00,14.99,Completed,Bank Transfer
+893,123,2023-11-17,0.00,14.99,Completed,PayPal
+894,135,2023-08-11,0.00,14.99,Completed,PayPal
+895,123,2025-09-25,0.00,8.99,Completed,Card
+896,10,2025-01-15,0.00,6.99,Completed,Cash
+897,21,2024-03-18,0.00,8.99,Completed,Card
+898,59,2023-07-22,0.09,8.99,Completed,Card
+899,75,2023-02-21,0.05,8.99,Completed,Cash
+900,42,2025-08-18,0.00,6.99,Completed,Card
+901,121,2025-03-15,0.00,4.99,Completed,Card
+902,125,2025-03-15,0.00,14.99,Completed,Cash
+903,121,2024-06-13,0.00,14.99,Completed,Cash
+904,9,2023-08-10,0.10,14.99,Completed,Cash
+905,95,2023-04-06,0.00,4.99,Completed,Cash
+906,20,2025-08-22,0.11,8.99,Completed,Card
+907,61,2023-05-14,0.00,14.99,Completed,Cash
+908,81,2023-01-31,0.00,4.99,Completed,Bank Transfer
+909,94,2024-07-03,0.00,14.99,Completed,Card
+910,10,2026-02-23,0.06,14.99,Completed,Card
+911,69,2024-07-08,0.00,4.99,Completed,PayPal
+912,138,2023-05-28,0.00,4.99,Completed,Cash
+913,12,2024-07-23,0.00,14.99,Completed,Cash
+914,25,2025-06-22,0.00,14.99,Completed,Cash
+915,77,2025-12-14,0.00,6.99,Completed,Cash
+916,134,2025-09-18,0.10,4.99,Completed,PayPal
+917,4,2023-10-27,0.00,6.99,Completed,Cash
+918,19,2025-06-24,0.00,8.99,Completed,Card
+919,30,2024-02-06,0.00,14.99,Completed,Bank Transfer
+920,104,2024-12-30,0.00,6.99,Completed,PayPal
+921,116,2024-04-23,0.10,8.99,Completed,Card
+922,63,2024-02-23,0.00,4.99,Completed,Bank Transfer
+923,34,2023-07-26,0.00,14.99,Completed,Cash
+924,67,2025-10-26,0.00,6.99,Completed,PayPal
+925,111,2024-10-29,0.10,14.99,Completed,Bank Transfer
+926,38,2023-09-30,0.00,8.99,Completed,Bank Transfer
+927,125,2026-01-07,0.00,8.99,Completed,Card
+928,17,2023-06-12,0.00,8.99,Completed,PayPal
+929,146,2026-02-05,0.00,4.99,Completed,Bank Transfer
+930,76,2024-05-10,0.10,4.99,Completed,Card
+931,37,2025-07-25,0.00,6.99,Completed,Card
+932,21,2024-02-21,0.00,4.99,Completed,Bank Transfer
+933,52,2025-12-18,0.14,4.99,Completed,Cash
+934,128,2024-05-21,0.14,14.99,Completed,Cash
+935,72,2023-05-24,0.00,4.99,Completed,PayPal
+936,5,2023-05-15,0.00,4.99,Completed,Cash
+937,132,2023-12-25,0.00,8.99,Completed,Bank Transfer
+938,150,2024-02-06,0.13,4.99,Completed,PayPal
+939,151,2023-05-30,0.14,4.99,Completed,Bank Transfer
+940,72,2025-12-19,0.00,4.99,Completed,Bank Transfer
+941,115,2025-03-22,0.00,14.99,Completed,Card
+942,91,2025-05-28,0.00,6.99,Completed,Cash
+943,84,2025-02-03,0.13,14.99,Completed,Card
+944,134,2025-05-24,0.00,6.99,Completed,Cash
+945,52,2023-12-20,0.00,14.99,Completed,Card
+946,31,2023-09-23,0.00,4.99,Completed,Cash
+947,83,2023-09-10,0.00,4.99,Completed,Card
+948,103,2023-06-07,0.10,4.99,Completed,PayPal
+949,45,2024-11-20,0.00,4.99,Completed,PayPal
+950,19,2025-02-01,0.13,4.99,Completed,Cash
+951,68,2026-01-07,0.00,8.99,Completed,Card
+952,76,2025-12-06,0.00,6.99,Completed,Card
+953,150,2026-02-05,0.00,8.99,Completed,Card
+954,72,2025-10-30,0.00,4.99,Completed,Bank Transfer
+955,117,2023-12-09,0.00,8.99,Completed,PayPal
+956,10,2024-02-02,0.00,8.99,Completed,Card
+957,6,2023-01-25,0.14,8.99,Completed,Cash
+958,109,2024-05-22,0.00,8.99,Completed,PayPal
+959,23,2025-09-25,0.15,4.99,Completed,Cash
+960,148,2023-12-10,0.14,4.99,Completed,Cash
+961,55,2024-07-22,0.00,14.99,Completed,PayPal
+962,45,2025-08-04,0.00,14.99,Completed,PayPal
+963,125,2025-05-16,0.00,4.99,Completed,PayPal
+964,80,2024-01-15,0.00,14.99,Completed,Bank Transfer
+965,160,2023-06-04,0.07,8.99,Completed,Bank Transfer
+966,11,2025-10-26,0.00,8.99,Completed,PayPal
+967,3,2023-10-02,0.00,14.99,Completed,Cash
+968,69,2025-03-15,0.00,4.99,Completed,Cash
+969,131,2025-12-20,0.00,8.99,Completed,Card
+970,87,2024-08-01,0.05,6.99,Completed,Card
+971,123,2023-03-21,0.00,4.99,Completed,Bank Transfer
+972,83,2023-02-12,0.00,4.99,Completed,Card
+973,129,2025-03-27,0.00,8.99,Completed,Bank Transfer
+974,136,2025-11-24,0.00,8.99,Completed,Card
+975,20,2024-10-10,0.00,8.99,Completed,Cash
+976,32,2025-10-07,0.09,6.99,Completed,Card
+977,76,2025-08-25,0.09,14.99,Completed,PayPal
+978,123,2025-11-28,0.00,14.99,Completed,PayPal
+979,7,2024-09-02,0.00,4.99,Completed,PayPal
+980,51,2024-07-09,0.00,14.99,Completed,Bank Transfer
+981,57,2025-06-02,0.11,8.99,Completed,Card
+982,133,2025-06-21,0.00,14.99,Completed,Card
+983,37,2024-10-01,0.00,14.99,Completed,Bank Transfer
+984,98,2024-10-28,0.00,8.99,Completed,Card
+985,63,2025-03-27,0.00,14.99,Completed,PayPal
+986,38,2023-02-18,0.00,6.99,Completed,PayPal
+987,151,2025-03-10,0.00,6.99,Completed,PayPal
+988,9,2024-05-02,0.10,14.99,Completed,PayPal
+989,83,2025-03-20,0.13,4.99,Completed,Card
+990,61,2024-05-14,0.00,14.99,Completed,Cash
+991,88,2024-01-22,0.00,4.99,Completed,Card
+992,71,2023-04-21,0.00,8.99,Completed,Cash
+993,158,2025-08-31,0.00,14.99,Completed,Card
+994,52,2024-04-15,0.00,4.99,Completed,Bank Transfer
+995,35,2025-06-01,0.00,8.99,Completed,PayPal
+996,80,2024-03-28,0.00,4.99,Completed,Bank Transfer
+997,26,2024-05-31,0.10,4.99,Completed,Cash
+998,49,2024-04-28,0.00,8.99,Completed,Bank Transfer
+999,86,2025-09-15,0.15,8.99,Completed,Cash
+1000,162,2025-08-11,0.00,4.99,Completed,PayPal
+1001,36,2024-05-09,0.00,4.99,Completed,Card
+1002,156,2025-01-26,0.00,4.99,Completed,Bank Transfer
+1003,56,2023-04-18,0.00,14.99,Completed,Card
+1004,132,2025-07-15,0.00,6.99,Completed,PayPal
+1005,71,2024-07-21,0.00,6.99,Completed,Card
+1006,44,2023-10-17,0.00,6.99,Completed,Bank Transfer
+1007,68,2023-08-26,0.08,4.99,Completed,PayPal
+1008,28,2025-04-17,0.00,6.99,Completed,Bank Transfer
+1009,43,2024-08-21,0.10,14.99,Completed,Cash
+1010,75,2025-09-09,0.13,8.99,Completed,Card
+1011,129,2025-06-04,0.00,4.99,Completed,PayPal
+1012,19,2025-03-16,0.00,8.99,Completed,Bank Transfer
+1013,7,2025-08-01,0.09,14.99,Completed,Cash
+1014,11,2023-12-05,0.00,8.99,Completed,PayPal
+1015,8,2023-04-21,0.00,6.99,Completed,Bank Transfer
+1016,50,2025-10-05,0.00,8.99,Completed,PayPal
+1017,110,2023-12-04,0.00,6.99,Completed,Bank Transfer
+1018,30,2026-01-10,0.00,6.99,Completed,Bank Transfer
+1019,12,2026-02-02,0.00,6.99,Completed,Card
+1020,44,2023-02-01,0.00,8.99,Completed,PayPal
+1021,153,2024-10-24,0.00,8.99,Completed,Cash
+1022,135,2025-04-04,0.00,4.99,Completed,Bank Transfer
+1023,150,2025-09-01,0.00,8.99,Completed,Cash
+1024,81,2024-06-08,0.10,6.99,Completed,Card
+1025,144,2025-08-25,0.00,4.99,Completed,Card
+1026,107,2024-11-11,0.06,8.99,Completed,Bank Transfer
+1027,43,2025-08-09,0.00,4.99,Completed,Bank Transfer
+1028,89,2024-01-01,0.13,4.99,Completed,Cash
+1029,12,2024-06-08,0.00,14.99,Completed,PayPal
+1030,58,2025-08-05,0.00,8.99,Completed,Cash
+1031,54,2023-06-16,0.07,4.99,Completed,Cash
+1032,145,2023-11-30,0.14,6.99,Completed,Card
+1033,100,2024-12-02,0.00,4.99,Completed,Card
+1034,135,2023-02-16,0.09,14.99,Completed,PayPal
+1035,121,2023-07-01,0.00,6.99,Completed,Bank Transfer
+1036,71,2024-10-09,0.00,14.99,Completed,PayPal
+1037,66,2024-01-05,0.00,14.99,Completed,PayPal
+1038,67,2023-04-08,0.00,8.99,Completed,PayPal
+1039,117,2024-03-09,0.10,6.99,Completed,Bank Transfer
+1040,4,2023-07-05,0.07,14.99,Completed,Card
+1041,149,2023-03-08,0.00,8.99,Completed,Card
+1042,35,2024-08-23,0.07,6.99,Completed,Card
+1043,1,2026-02-19,0.13,14.99,Completed,Cash
+1044,44,2023-04-08,0.00,14.99,Completed,Cash
+1045,124,2024-03-15,0.00,14.99,Completed,Card
+1046,26,2025-04-29,0.00,14.99,Completed,PayPal
+1047,8,2025-04-22,0.00,6.99,Completed,Card
+1048,122,2023-12-05,0.00,4.99,Completed,Cash
+1049,96,2024-11-22,0.00,6.99,Completed,Bank Transfer
+1050,89,2023-02-07,0.00,8.99,Completed,Card
+1051,12,2025-12-05,0.00,6.99,Completed,Cash
+1052,31,2024-11-22,0.00,6.99,Completed,PayPal
+1053,8,2023-12-12,0.00,14.99,Completed,Cash
+1054,34,2025-11-28,0.06,8.99,Completed,PayPal
+1055,145,2023-09-20,0.00,8.99,Completed,PayPal
+1056,48,2024-12-10,0.00,4.99,Completed,Card
+1057,154,2024-09-05,0.10,14.99,Completed,Cash
+1058,81,2023-01-02,0.00,8.99,Completed,Cash
+1059,134,2023-08-10,0.00,14.99,Completed,Bank Transfer
+1060,9,2024-05-25,0.00,14.99,Completed,PayPal
+1061,129,2024-04-13,0.00,4.99,Completed,Cash
+1062,25,2026-02-07,0.00,6.99,Completed,Cash
+1063,154,2024-09-14,0.11,6.99,Completed,PayPal
+1064,118,2025-03-18,0.00,8.99,Completed,PayPal
+1065,11,2023-04-25,0.00,4.99,Completed,Card
+1066,66,2024-03-14,0.00,6.99,Completed,Cash
+1067,86,2025-09-02,0.00,8.99,Completed,PayPal
+1068,139,2024-07-14,0.14,8.99,Completed,Card
+1069,39,2025-11-22,0.11,6.99,Completed,Bank Transfer
+1070,3,2025-04-22,0.00,14.99,Completed,Card
+1071,70,2025-02-22,0.00,6.99,Completed,Card
+1072,117,2024-08-16,0.00,8.99,Completed,PayPal
+1073,42,2024-07-14,0.00,14.99,Completed,Cash
+1074,61,2025-02-12,0.00,4.99,Completed,Bank Transfer
+1075,112,2023-03-10,0.00,4.99,Completed,Cash
+1076,100,2023-04-03,0.00,8.99,Completed,Card
+1077,67,2024-02-18,0.00,8.99,Completed,Bank Transfer
+1078,18,2023-01-10,0.11,8.99,Completed,PayPal
+1079,70,2023-03-06,0.00,14.99,Completed,Card
+1080,64,2024-04-15,0.06,4.99,Completed,Bank Transfer
+1081,2,2024-09-27,0.05,14.99,Completed,Card
+1082,66,2024-06-17,0.00,4.99,Completed,Card
+1083,149,2025-09-06,0.00,14.99,Completed,Bank Transfer
+1084,27,2025-11-27,0.00,14.99,Completed,PayPal
+1085,37,2025-11-25,0.13,6.99,Completed,PayPal
+1086,109,2024-11-15,0.05,4.99,Completed,Bank Transfer
+1087,14,2024-12-06,0.07,8.99,Completed,Cash
+1088,100,2024-10-12,0.07,4.99,Completed,Card
+1089,76,2025-05-10,0.00,6.99,Completed,Bank Transfer
+1090,79,2025-01-25,0.06,4.99,Completed,Cash
+1091,134,2025-04-03,0.00,6.99,Completed,PayPal
+1092,111,2025-04-21,0.00,14.99,Completed,Card
+1093,127,2023-08-05,0.00,6.99,Completed,Card
+1094,116,2023-02-18,0.00,4.99,Completed,Bank Transfer
+1095,81,2023-02-06,0.00,4.99,Completed,Card
+1096,107,2023-05-03,0.00,8.99,Completed,Bank Transfer
+1097,162,2023-10-16,0.00,8.99,Completed,Bank Transfer
+1098,96,2024-06-12,0.00,4.99,Completed,PayPal
+1099,78,2024-06-29,0.07,6.99,Completed,PayPal
+1100,75,2024-02-20,0.00,4.99,Completed,Card
+1101,159,2025-06-22,0.11,14.99,Completed,PayPal
+1102,149,2024-05-31,0.00,4.99,Completed,Bank Transfer
+1103,96,2023-02-03,0.00,14.99,Completed,Card
+1104,101,2023-02-02,0.00,6.99,Completed,PayPal
+1105,74,2023-11-01,0.15,14.99,Completed,Card
+1106,58,2024-10-18,0.07,8.99,Completed,PayPal
+1107,114,2026-01-14,0.12,6.99,Completed,Cash
+1108,30,2025-02-02,0.14,14.99,Completed,Card
+1109,31,2023-12-23,0.15,4.99,Completed,Card
+1110,82,2023-08-08,0.00,8.99,Completed,PayPal
+1111,127,2025-05-21,0.00,14.99,Completed,Card
+1112,120,2024-07-12,0.00,8.99,Completed,Card
+1113,44,2025-06-27,0.00,6.99,Completed,Bank Transfer
+1114,121,2023-02-01,0.09,6.99,Completed,PayPal
+1115,78,2025-10-05,0.06,8.99,Completed,PayPal
+1116,28,2023-06-05,0.00,6.99,Completed,PayPal
+1117,16,2024-05-05,0.14,4.99,Completed,Card
+1118,138,2023-01-18,0.00,8.99,Completed,Cash
+1119,126,2026-01-23,0.00,8.99,Completed,Card
+1120,162,2025-10-10,0.00,6.99,Completed,Bank Transfer
+1121,97,2025-03-24,0.11,8.99,Completed,Bank Transfer
+1122,33,2024-02-25,0.00,4.99,Completed,Cash
+1123,1,2025-06-19,0.06,4.99,Completed,Bank Transfer
+1124,155,2023-12-24,0.00,6.99,Completed,Cash
+1125,38,2023-06-26,0.00,14.99,Completed,Cash
+1126,44,2023-05-18,0.11,6.99,Completed,PayPal
+1127,42,2025-05-12,0.11,4.99,Completed,Cash
+1128,53,2025-08-07,0.00,6.99,Completed,Bank Transfer
+1129,70,2024-12-12,0.07,6.99,Completed,Bank Transfer
+1130,95,2024-09-01,0.14,8.99,Completed,Bank Transfer
+1131,3,2025-01-02,0.00,8.99,Completed,Cash
+1132,25,2026-01-08,0.00,14.99,Completed,Bank Transfer
+1133,109,2023-01-10,0.00,4.99,Completed,Cash
+1134,73,2023-09-10,0.06,6.99,Completed,Card
+1135,42,2024-10-11,0.00,8.99,Completed,Cash
+1136,106,2025-12-23,0.15,8.99,Completed,Card
+1137,121,2024-03-10,0.00,4.99,Completed,PayPal
+1138,151,2025-02-09,0.00,14.99,Completed,Card
+1139,71,2025-05-18,0.00,4.99,Completed,PayPal
+1140,51,2024-10-23,0.14,8.99,Completed,Bank Transfer
+1141,51,2025-10-14,0.00,8.99,Completed,Card
+1142,126,2024-01-01,0.00,6.99,Completed,Bank Transfer
+1143,39,2025-02-14,0.00,4.99,Completed,Card
+1144,132,2025-07-20,0.00,8.99,Completed,Card
+1145,114,2023-10-07,0.00,14.99,Completed,Bank Transfer
+1146,58,2024-07-21,0.00,6.99,Completed,Cash
+1147,155,2025-11-01,0.00,6.99,Completed,Cash
+1148,124,2024-08-18,0.00,14.99,Completed,PayPal
+1149,148,2024-02-12,0.00,4.99,Completed,Cash
+1150,31,2023-05-06,0.10,8.99,Completed,Card
+1151,8,2023-05-07,0.00,8.99,Completed,Card
+1152,134,2024-12-03,0.00,4.99,Completed,PayPal
+1153,80,2025-09-21,0.11,8.99,Completed,Card
+1154,54,2024-12-02,0.00,6.99,Completed,Card
+1155,41,2025-10-12,0.00,8.99,Completed,Bank Transfer
+1156,22,2025-04-21,0.00,4.99,Completed,PayPal
+1157,154,2025-08-08,0.00,14.99,Completed,PayPal
+1158,144,2023-10-12,0.00,4.99,Completed,Card
+1159,35,2024-11-25,0.00,4.99,Completed,Cash
+1160,32,2023-04-23,0.07,8.99,Completed,Bank Transfer
+1161,77,2026-01-28,0.00,6.99,Completed,Card
+1162,146,2023-01-30,0.00,4.99,Completed,Card
+1163,137,2023-08-22,0.00,14.99,Completed,PayPal
+1164,153,2025-01-20,0.00,4.99,Completed,PayPal
+1165,78,2024-11-23,0.00,14.99,Completed,Card
+1166,43,2024-10-29,0.00,14.99,Completed,Bank Transfer
+1167,73,2025-10-15,0.00,8.99,Completed,Cash
+1168,123,2024-12-13,0.08,14.99,Completed,Bank Transfer
+1169,5,2025-10-01,0.00,8.99,Completed,Bank Transfer
+1170,10,2025-05-13,0.00,8.99,Completed,Card
+1171,121,2024-07-04,0.00,6.99,Completed,Cash
+1172,58,2025-12-20,0.00,6.99,Completed,PayPal
+1173,104,2023-02-22,0.00,6.99,Completed,Bank Transfer
+1174,104,2024-01-29,0.14,6.99,Completed,Cash
+1175,107,2025-08-28,0.00,8.99,Completed,PayPal
+1176,128,2023-12-01,0.00,8.99,Completed,PayPal
+1177,43,2024-08-15,0.09,8.99,Completed,Bank Transfer
+1178,138,2024-04-09,0.00,4.99,Completed,Cash
+1179,148,2025-05-30,0.00,4.99,Completed,Cash
+1180,137,2025-09-20,0.08,14.99,Completed,Card
+1181,147,2026-02-22,0.00,6.99,Completed,Bank Transfer
+1182,64,2024-01-11,0.00,6.99,Completed,Bank Transfer
+1183,22,2025-03-30,0.00,8.99,Completed,PayPal
+1184,49,2024-11-20,0.00,8.99,Completed,Card
+1185,149,2026-02-02,0.00,8.99,Completed,Cash
+1186,52,2025-01-31,0.00,14.99,Completed,Bank Transfer
+1187,78,2023-06-17,0.00,4.99,Completed,Card
+1188,122,2023-12-12,0.00,6.99,Completed,Bank Transfer
+1189,79,2025-04-28,0.00,14.99,Completed,Card
+1190,48,2024-04-05,0.00,6.99,Completed,Cash
+1191,63,2024-05-30,0.00,4.99,Completed,Bank Transfer
+1192,15,2026-01-28,0.00,4.99,Completed,PayPal
+1193,43,2023-07-21,0.00,14.99,Completed,Card
+1194,123,2024-11-02,0.00,6.99,Completed,Cash
+1195,81,2024-02-12,0.00,6.99,Completed,Bank Transfer
+1196,18,2023-04-10,0.00,6.99,Completed,Bank Transfer
+1197,5,2023-10-30,0.00,6.99,Completed,Card
+1198,124,2023-11-09,0.00,8.99,Completed,PayPal
+1199,3,2024-06-25,0.00,4.99,Completed,PayPal
+1200,1,2023-01-19,0.00,6.99,Completed,Card
+1201,119,2024-02-20,0.00,14.99,Completed,Bank Transfer
+1202,71,2025-01-20,0.12,14.99,Completed,Cash
+1203,152,2025-02-01,0.00,8.99,Completed,Card
+1204,5,2025-06-18,0.12,4.99,Completed,Bank Transfer
+1205,56,2024-02-14,0.12,4.99,Completed,Bank Transfer
+1206,109,2025-07-23,0.00,14.99,Completed,Bank Transfer
+1207,43,2024-07-19,0.00,14.99,Completed,Card
+1208,30,2024-08-17,0.00,8.99,Completed,Card
+1209,57,2024-11-17,0.14,8.99,Completed,Cash
+1210,108,2024-07-08,0.00,8.99,Completed,PayPal
+1211,154,2024-07-21,0.00,8.99,Completed,Cash
+1212,138,2023-07-23,0.00,4.99,Completed,PayPal
+1213,128,2023-02-17,0.06,14.99,Completed,Card
+1214,59,2023-08-07,0.12,4.99,Completed,Card
+1215,124,2023-09-05,0.08,4.99,Completed,Cash
+1216,105,2023-07-28,0.08,6.99,Completed,PayPal
+1217,37,2024-09-26,0.00,8.99,Completed,Cash
+1218,94,2025-09-24,0.00,6.99,Completed,Bank Transfer
+1219,124,2025-12-24,0.00,6.99,Completed,Card
+1220,142,2025-12-03,0.00,6.99,Completed,Cash
+1221,12,2023-09-04,0.11,6.99,Completed,Cash
+1222,11,2024-10-09,0.00,6.99,Completed,Bank Transfer
+1223,144,2024-05-19,0.00,6.99,Completed,Card
+1224,94,2024-08-14,0.12,14.99,Completed,Bank Transfer
+1225,132,2024-12-06,0.00,6.99,Completed,PayPal
+1226,130,2024-04-29,0.00,4.99,Completed,Card
+1227,106,2023-02-20,0.00,4.99,Completed,Card
+1228,70,2024-08-21,0.00,14.99,Completed,Card
+1229,40,2023-04-06,0.00,4.99,Completed,PayPal
+1230,28,2025-02-01,0.05,8.99,Completed,PayPal
+1231,61,2024-02-23,0.00,6.99,Completed,PayPal
+1232,53,2024-11-29,0.00,6.99,Completed,Card
+1233,11,2023-04-11,0.00,14.99,Completed,Bank Transfer
+1234,85,2023-02-19,0.00,4.99,Completed,Bank Transfer
+1235,127,2024-01-29,0.00,14.99,Completed,Bank Transfer
+1236,113,2023-03-15,0.00,14.99,Completed,Card
+1237,111,2023-03-14,0.00,4.99,Completed,Card
+1238,140,2023-03-26,0.12,14.99,Completed,Bank Transfer
+1239,158,2025-09-29,0.00,8.99,Completed,PayPal
+1240,151,2023-03-29,0.00,8.99,Completed,Bank Transfer
+1241,152,2023-09-17,0.00,14.99,Completed,PayPal
+1242,63,2023-02-25,0.00,6.99,Completed,Card
+1243,112,2023-06-01,0.00,8.99,Completed,Card
+1244,43,2025-02-04,0.00,8.99,Completed,Bank Transfer
+1245,141,2023-01-15,0.00,4.99,Completed,Bank Transfer
+1246,40,2025-09-14,0.00,4.99,Completed,Cash
+1247,122,2026-01-13,0.00,14.99,Completed,Bank Transfer
+1248,9,2024-02-05,0.00,14.99,Completed,PayPal
+1249,64,2023-06-27,0.00,8.99,Completed,Bank Transfer
+1250,81,2023-03-12,0.14,14.99,Completed,PayPal
+1251,92,2026-02-01,0.00,4.99,Completed,PayPal
+1252,37,2023-04-17,0.12,14.99,Completed,Bank Transfer
+1253,28,2024-05-01,0.00,8.99,Completed,PayPal
+1254,90,2024-10-05,0.00,4.99,Completed,PayPal
+1255,53,2024-11-28,0.00,6.99,Completed,Bank Transfer
+1256,41,2024-10-08,0.00,8.99,Completed,Bank Transfer
+1257,77,2025-07-08,0.00,6.99,Completed,Cash
+1258,108,2023-08-02,0.06,8.99,Completed,Bank Transfer
+1259,119,2025-10-09,0.00,6.99,Completed,Card
+1260,12,2024-02-07,0.00,8.99,Completed,Cash
+1261,58,2024-06-25,0.00,4.99,Completed,Card
+1262,144,2025-10-15,0.07,6.99,Completed,Bank Transfer
+1263,20,2025-10-11,0.00,8.99,Completed,PayPal
+1264,60,2023-03-02,0.00,8.99,Completed,PayPal
+1265,33,2023-08-05,0.00,4.99,Completed,Cash
+1266,137,2026-01-14,0.00,8.99,Completed,PayPal
+1267,14,2023-10-13,0.07,14.99,Completed,Card
+1268,47,2025-05-17,0.07,6.99,Completed,Bank Transfer
+1269,153,2025-06-17,0.00,4.99,Completed,Bank Transfer
+1270,1,2024-12-08,0.00,6.99,Completed,Card
+1271,152,2024-08-24,0.09,8.99,Completed,Cash
+1272,44,2024-08-13,0.07,14.99,Completed,PayPal
+1273,64,2023-08-23,0.11,6.99,Completed,Bank Transfer
+1274,15,2023-03-22,0.00,4.99,Completed,PayPal
+1275,84,2025-06-09,0.00,4.99,Completed,Cash
+1276,125,2025-12-21,0.00,4.99,Completed,PayPal
+1277,40,2024-12-07,0.00,14.99,Completed,Card
+1278,7,2025-10-28,0.00,4.99,Completed,Cash
+1279,110,2023-08-28,0.00,6.99,Completed,Card
+1280,65,2024-10-29,0.00,8.99,Completed,PayPal
+1281,65,2024-06-16,0.00,4.99,Completed,PayPal
+1282,69,2024-01-15,0.00,14.99,Completed,Cash
+1283,105,2024-06-17,0.00,8.99,Completed,Cash
+1284,85,2024-03-14,0.00,8.99,Completed,PayPal
+1285,79,2024-11-23,0.00,14.99,Completed,Bank Transfer
+1286,148,2025-06-07,0.00,6.99,Completed,Bank Transfer
+1287,12,2024-05-19,0.11,14.99,Completed,PayPal
+1288,151,2024-08-12,0.08,4.99,Completed,PayPal
+1289,21,2024-10-27,0.00,14.99,Completed,Cash
+1290,48,2024-08-23,0.05,4.99,Completed,Card
+1291,21,2024-08-05,0.00,4.99,Completed,Cash
+1292,151,2023-07-06,0.00,8.99,Completed,Bank Transfer
+1293,10,2024-03-09,0.00,6.99,Completed,PayPal
+1294,67,2026-01-02,0.00,14.99,Completed,Cash
+1295,123,2024-07-05,0.00,4.99,Completed,Cash
+1296,135,2025-05-15,0.00,4.99,Completed,PayPal
+1297,108,2024-10-25,0.12,14.99,Completed,PayPal
+1298,106,2023-04-26,0.00,6.99,Completed,Cash
+1299,10,2025-11-01,0.00,14.99,Completed,Cash
+1300,125,2024-03-10,0.00,14.99,Completed,Card
+1301,73,2025-05-25,0.00,14.99,Completed,PayPal
+1302,20,2025-04-16,0.00,4.99,Completed,Card
+1303,126,2025-03-15,0.00,8.99,Completed,Card
+1304,23,2024-09-15,0.00,14.99,Completed,Card
+1305,80,2025-10-30,0.00,6.99,Completed,Bank Transfer
+1306,144,2023-02-24,0.00,8.99,Completed,Bank Transfer
+1307,72,2024-04-27,0.11,14.99,Completed,Bank Transfer
+1308,75,2024-05-28,0.14,4.99,Completed,Bank Transfer
+1309,117,2023-06-01,0.00,4.99,Completed,Card
+1310,18,2023-10-19,0.15,14.99,Completed,Bank Transfer
+1311,155,2025-08-29,0.00,4.99,Completed,Card
+1312,148,2023-07-28,0.00,6.99,Completed,Card
+1313,73,2026-02-07,0.00,14.99,Completed,Bank Transfer
+1314,162,2023-04-24,0.00,4.99,Completed,PayPal
+1315,151,2023-05-24,0.13,8.99,Completed,Cash
+1316,126,2023-02-19,0.08,14.99,Completed,Bank Transfer
+1317,57,2026-01-28,0.07,8.99,Completed,Cash
+1318,128,2026-02-17,0.00,4.99,Completed,Cash
+1319,82,2024-10-15,0.00,14.99,Completed,PayPal
+1320,110,2023-12-08,0.00,6.99,Completed,Cash
+1321,15,2023-06-16,0.00,14.99,Completed,Bank Transfer
+1322,43,2024-03-10,0.00,6.99,Completed,PayPal
+1323,143,2024-11-08,0.00,8.99,Completed,PayPal
+1324,10,2024-03-15,0.10,8.99,Completed,Bank Transfer
+1325,162,2023-11-14,0.00,4.99,Completed,Cash
+1326,41,2024-01-20,0.11,4.99,Completed,Cash
+1327,23,2024-11-19,0.00,4.99,Completed,Cash
+1328,25,2024-04-21,0.00,14.99,Completed,Cash
+1329,146,2025-02-28,0.10,8.99,Completed,Card
+1330,41,2025-02-25,0.00,4.99,Completed,Cash
+1331,88,2025-12-10,0.00,6.99,Completed,Bank Transfer
+1332,30,2023-12-06,0.12,14.99,Completed,Bank Transfer
+1333,88,2024-03-21,0.00,6.99,Completed,Bank Transfer
+1334,50,2025-10-25,0.00,4.99,Completed,PayPal
+1335,35,2023-02-06,0.00,6.99,Completed,Bank Transfer
+1336,92,2024-05-27,0.00,6.99,Completed,Bank Transfer
+1337,141,2024-06-12,0.00,4.99,Completed,Cash
+1338,65,2023-01-12,0.07,8.99,Completed,PayPal
+1339,101,2024-10-24,0.00,6.99,Completed,Cash
+1340,37,2025-10-15,0.05,14.99,Completed,PayPal
+1341,86,2024-11-28,0.00,6.99,Completed,PayPal
+1342,92,2023-09-13,0.00,6.99,Completed,PayPal
+1343,88,2024-06-29,0.08,4.99,Completed,PayPal
+1344,51,2024-04-04,0.00,4.99,Completed,Card
+1345,47,2023-08-05,0.00,14.99,Completed,Bank Transfer
+1346,66,2025-05-19,0.00,6.99,Completed,Bank Transfer
+1347,101,2025-01-04,0.00,8.99,Completed,PayPal
+1348,93,2023-10-07,0.00,14.99,Completed,PayPal
+1349,25,2023-09-08,0.00,6.99,Completed,PayPal
+1350,75,2024-09-09,0.00,14.99,Completed,Cash
+1351,94,2024-11-01,0.00,4.99,Completed,Card
+1352,71,2025-02-12,0.00,4.99,Completed,Bank Transfer
+1353,109,2025-07-21,0.00,8.99,Completed,Cash
+1354,121,2025-01-19,0.00,4.99,Completed,Cash
+1355,152,2024-02-17,0.13,4.99,Completed,Bank Transfer
+1356,45,2025-03-28,0.10,4.99,Completed,PayPal
+1357,38,2024-06-27,0.00,14.99,Completed,Cash
+1358,56,2024-09-21,0.00,14.99,Completed,Card
+1359,131,2025-09-08,0.11,8.99,Completed,PayPal
+1360,102,2024-08-08,0.00,14.99,Completed,Bank Transfer
+1361,30,2023-08-24,0.00,14.99,Completed,Cash
+1362,98,2025-10-12,0.00,6.99,Completed,Bank Transfer
+1363,73,2024-10-23,0.00,14.99,Completed,Bank Transfer
+1364,47,2023-04-20,0.00,14.99,Completed,Card
+1365,89,2023-06-30,0.00,4.99,Completed,PayPal
+1366,97,2023-02-05,0.00,14.99,Completed,Bank Transfer
+1367,94,2024-08-23,0.13,8.99,Completed,Card
+1368,96,2023-08-14,0.00,6.99,Completed,PayPal
+1369,18,2024-05-10,0.13,8.99,Completed,Card
+1370,61,2024-09-12,0.00,4.99,Completed,Cash
+1371,73,2026-01-07,0.00,6.99,Completed,Cash
+1372,98,2023-03-08,0.00,6.99,Completed,Bank Transfer
+1373,46,2026-01-29,0.00,6.99,Completed,Card
+1374,12,2025-09-06,0.00,8.99,Completed,Card
+1375,51,2024-05-12,0.00,14.99,Completed,Cash
+1376,159,2024-04-05,0.00,4.99,Completed,Cash
+1377,109,2023-06-08,0.00,14.99,Completed,Bank Transfer
+1378,151,2024-03-10,0.00,6.99,Completed,Cash
+1379,117,2024-11-04,0.06,4.99,Completed,Bank Transfer
+1380,98,2023-09-02,0.00,8.99,Completed,Cash
+1381,117,2025-02-16,0.00,4.99,Completed,Cash
+1382,153,2024-10-01,0.05,6.99,Completed,PayPal
+1383,115,2025-12-09,0.00,14.99,Completed,PayPal
+1384,135,2023-05-02,0.00,14.99,Completed,Cash
+1385,25,2025-01-29,0.07,6.99,Completed,Cash
+1386,115,2024-05-16,0.00,14.99,Completed,PayPal
+1387,21,2025-09-13,0.14,14.99,Completed,Card
+1388,84,2023-04-11,0.07,6.99,Completed,Bank Transfer
+1389,149,2025-02-18,0.00,4.99,Completed,PayPal
+1390,89,2023-02-16,0.00,8.99,Completed,Bank Transfer
+1391,56,2023-01-07,0.00,4.99,Completed,Card
+1392,3,2023-03-15,0.00,4.99,Completed,Bank Transfer
+1393,68,2023-06-27,0.00,4.99,Completed,Card
+1394,155,2024-10-22,0.00,6.99,Completed,Cash
+1395,51,2023-10-13,0.00,14.99,Completed,Card
+1396,114,2024-06-19,0.00,8.99,Completed,Bank Transfer
+1397,81,2025-03-07,0.12,14.99,Completed,PayPal
+1398,44,2023-07-13,0.00,8.99,Completed,Card
+1399,24,2023-02-08,0.11,8.99,Completed,PayPal
+1400,71,2023-03-19,0.00,14.99,Completed,Bank Transfer
+1401,17,2023-03-31,0.00,4.99,Completed,PayPal
+1402,88,2025-10-03,0.06,4.99,Completed,PayPal
+1403,134,2023-04-22,0.00,14.99,Completed,Bank Transfer
+1404,93,2024-09-19,0.00,6.99,Completed,Bank Transfer
+1405,96,2023-04-10,0.00,4.99,Completed,Cash
+1406,20,2025-09-15,0.15,4.99,Completed,Card
+1407,25,2023-10-20,0.08,4.99,Completed,Cash
+1408,134,2025-11-12,0.00,8.99,Completed,Bank Transfer
+1409,115,2025-07-08,0.14,14.99,Completed,PayPal
+1410,149,2024-06-20,0.00,6.99,Completed,PayPal
+1411,63,2023-11-29,0.00,8.99,Completed,Bank Transfer
+1412,139,2024-11-02,0.00,14.99,Completed,PayPal
+1413,114,2024-03-05,0.12,6.99,Completed,Cash
+1414,143,2023-12-26,0.12,8.99,Completed,PayPal
+1415,68,2024-09-08,0.00,6.99,Completed,Card
+1416,92,2023-08-15,0.00,14.99,Completed,Cash
+1417,45,2023-11-22,0.00,4.99,Completed,PayPal
+1418,70,2025-11-20,0.00,8.99,Completed,Cash
+1419,87,2025-08-29,0.00,6.99,Completed,PayPal
+1420,110,2024-08-09,0.00,14.99,Completed,Cash
+1421,64,2024-09-16,0.00,14.99,Completed,Cash
+1422,143,2023-11-27,0.06,6.99,Completed,Bank Transfer
+1423,13,2024-05-28,0.11,4.99,Completed,PayPal
+1424,151,2025-03-28,0.12,4.99,Completed,Cash
+1425,36,2023-10-22,0.00,6.99,Completed,Bank Transfer
+1426,109,2024-07-19,0.00,8.99,Completed,Cash
+1427,71,2023-08-31,0.06,4.99,Completed,Cash
+1428,55,2025-03-13,0.00,4.99,Completed,Bank Transfer
+1429,38,2025-06-22,0.00,14.99,Completed,Card
+1430,143,2025-01-23,0.00,4.99,Completed,Card
+1431,100,2026-01-26,0.00,4.99,Completed,Bank Transfer
+1432,86,2023-08-21,0.00,8.99,Completed,Cash
+1433,128,2024-06-19,0.09,4.99,Completed,Card
+1434,95,2024-05-30,0.00,4.99,Completed,Card
+1435,2,2025-09-17,0.00,8.99,Completed,Bank Transfer
+1436,131,2025-02-17,0.12,8.99,Completed,Cash
+1437,21,2023-10-23,0.13,4.99,Completed,Card
+1438,99,2024-08-10,0.06,6.99,Completed,Card
+1439,49,2024-06-03,0.00,6.99,Completed,Card
+1440,96,2024-03-15,0.00,8.99,Completed,Card
+1441,66,2024-05-21,0.11,4.99,Completed,Bank Transfer
+1442,36,2023-11-07,0.00,8.99,Completed,Card
+1443,118,2023-10-15,0.00,8.99,Completed,PayPal
+1444,91,2025-09-03,0.00,4.99,Completed,Cash
+1445,29,2025-07-25,0.00,4.99,Completed,PayPal
+1446,8,2024-11-26,0.10,4.99,Completed,PayPal
+1447,4,2023-09-17,0.00,8.99,Completed,Bank Transfer
+1448,57,2023-10-24,0.00,6.99,Completed,Cash
+1449,105,2023-03-29,0.00,4.99,Completed,Bank Transfer
+1450,127,2024-11-09,0.00,4.99,Completed,Cash
+1451,36,2025-12-30,0.00,8.99,Completed,Cash
+1452,95,2024-11-28,0.00,8.99,Completed,Bank Transfer
+1453,14,2024-10-06,0.00,4.99,Completed,Bank Transfer
+1454,94,2024-10-25,0.00,4.99,Completed,PayPal
+1455,82,2024-01-26,0.00,14.99,Completed,Card
+1456,140,2025-10-23,0.12,8.99,Completed,PayPal
+1457,114,2025-07-17,0.07,4.99,Completed,Cash
+1458,16,2024-07-27,0.00,8.99,Completed,Bank Transfer
+1459,31,2023-05-09,0.11,4.99,Completed,Card
+1460,87,2024-12-16,0.00,8.99,Completed,PayPal
+1461,88,2024-12-10,0.00,6.99,Completed,Bank Transfer
+1462,76,2024-04-15,0.00,14.99,Completed,Bank Transfer
+1463,61,2024-01-31,0.00,14.99,Completed,Bank Transfer
+1464,11,2023-03-05,0.00,6.99,Completed,Card
+1465,75,2023-06-20,0.00,6.99,Completed,Bank Transfer
+1466,141,2025-12-04,0.00,6.99,Completed,Bank Transfer
+1467,12,2025-07-12,0.11,6.99,Completed,PayPal
+1468,17,2024-02-19,0.00,6.99,Completed,PayPal
+1469,128,2023-05-01,0.00,6.99,Completed,Bank Transfer
+1470,37,2024-01-03,0.11,6.99,Completed,Card
+1471,145,2025-05-24,0.00,6.99,Completed,Card
+1472,39,2023-07-16,0.00,4.99,Completed,Cash
+1473,105,2026-01-01,0.07,6.99,Completed,Bank Transfer
+1474,116,2023-04-11,0.00,4.99,Completed,Cash
+1475,99,2023-10-19,0.00,6.99,Completed,Bank Transfer
+1476,51,2025-05-18,0.14,4.99,Completed,Cash
+1477,98,2023-02-25,0.00,4.99,Completed,PayPal
+1478,97,2025-08-13,0.00,4.99,Completed,Card
+1479,44,2025-04-30,0.07,4.99,Completed,PayPal
+1480,122,2025-01-19,0.00,4.99,Completed,Cash
+1481,71,2023-08-22,0.00,14.99,Completed,Cash
+1482,24,2024-12-21,0.00,8.99,Completed,Bank Transfer
+1483,61,2024-04-10,0.08,8.99,Completed,Cash
+1484,137,2023-08-01,0.00,6.99,Completed,Bank Transfer
+1485,7,2025-01-31,0.00,14.99,Completed,Bank Transfer
+1486,77,2025-11-20,0.00,4.99,Completed,Bank Transfer
+1487,138,2025-08-20,0.00,8.99,Completed,Card
+1488,8,2025-04-12,0.00,4.99,Completed,Cash
+1489,11,2024-06-07,0.00,14.99,Completed,PayPal
+1490,82,2024-05-30,0.08,6.99,Completed,Bank Transfer
+1491,27,2023-11-27,0.13,6.99,Completed,Card
+1492,149,2023-02-13,0.00,4.99,Completed,Card
+1493,140,2023-11-14,0.06,6.99,Completed,Card
+1494,5,2024-09-14,0.00,6.99,Completed,Cash
+1495,103,2026-02-14,0.00,4.99,Completed,Bank Transfer
+1496,32,2023-03-29,0.12,4.99,Completed,Card
+1497,65,2025-12-15,0.00,8.99,Completed,Cash
+1498,82,2023-07-16,0.00,4.99,Completed,Card
+1499,118,2024-03-19,0.11,8.99,Completed,Bank Transfer
+1500,142,2025-12-28,0.00,14.99,Completed,Cash
+1501,126,2025-01-14,0.11,6.99,Completed,PayPal
+1502,103,2023-02-13,0.00,6.99,Completed,Bank Transfer
+1503,132,2025-06-26,0.00,4.99,Completed,Card
+1504,74,2025-05-14,0.00,8.99,Completed,Cash
+1505,112,2024-02-07,0.00,6.99,Completed,Bank Transfer
+1506,151,2023-09-14,0.00,14.99,Completed,Bank Transfer
+1507,156,2024-08-19,0.15,14.99,Completed,Card
+1508,80,2025-09-18,0.10,4.99,Completed,Cash
+1509,20,2024-11-05,0.00,4.99,Completed,PayPal
+1510,73,2023-01-03,0.00,6.99,Completed,PayPal
+1511,102,2025-11-30,0.14,6.99,Completed,Bank Transfer
+1512,95,2023-07-24,0.00,4.99,Completed,Cash
+1513,78,2023-08-27,0.00,6.99,Completed,Card
+1514,118,2023-03-11,0.00,6.99,Completed,Card
+1515,121,2024-11-05,0.00,8.99,Completed,PayPal
+1516,105,2024-08-30,0.00,14.99,Completed,Cash
+1517,11,2023-12-14,0.00,8.99,Completed,Card
+1518,6,2025-01-02,0.00,6.99,Completed,Card
+1519,28,2024-08-18,0.00,14.99,Completed,PayPal
+1520,155,2025-08-11,0.00,14.99,Completed,Cash
+1521,52,2024-07-24,0.00,4.99,Completed,Card
+1522,70,2024-12-10,0.06,4.99,Completed,Cash
+1523,3,2023-10-24,0.00,6.99,Completed,PayPal
+1524,71,2024-07-19,0.00,4.99,Completed,Bank Transfer
+1525,35,2025-03-04,0.15,6.99,Completed,Cash
+1526,160,2023-06-09,0.08,6.99,Completed,Bank Transfer
+1527,134,2025-07-04,0.00,4.99,Completed,Card
+1528,100,2024-05-22,0.00,6.99,Completed,Card
+1529,135,2024-05-05,0.00,14.99,Completed,PayPal
+1530,7,2024-10-17,0.14,8.99,Completed,PayPal
+1531,157,2025-05-19,0.06,8.99,Completed,Cash
+1532,140,2023-04-13,0.06,8.99,Completed,Cash
+1533,68,2023-07-30,0.00,14.99,Completed,Bank Transfer
+1534,141,2025-08-26,0.00,6.99,Completed,PayPal
+1535,46,2025-07-18,0.00,6.99,Completed,Bank Transfer
+1536,150,2026-02-03,0.00,8.99,Completed,Cash
+1537,17,2025-04-15,0.00,6.99,Completed,Card
+1538,61,2024-07-21,0.00,4.99,Completed,Card
+1539,147,2023-07-18,0.00,4.99,Completed,PayPal
+1540,76,2024-06-29,0.09,4.99,Completed,Cash
+1541,64,2025-12-03,0.00,6.99,Completed,Card
+1542,158,2024-11-23,0.00,8.99,Completed,Bank Transfer
+1543,22,2023-11-29,0.00,6.99,Completed,PayPal
+1544,32,2023-01-13,0.00,6.99,Completed,Card
+1545,33,2023-11-18,0.06,6.99,Completed,Cash
+1546,58,2025-12-27,0.00,6.99,Completed,Cash
+1547,77,2023-09-15,0.13,4.99,Completed,Card
+1548,126,2025-07-15,0.00,4.99,Completed,Card
+1549,156,2023-05-14,0.00,4.99,Completed,PayPal
+1550,80,2025-03-27,0.00,6.99,Completed,Card
+1551,68,2026-02-10,0.00,6.99,Completed,Bank Transfer
+1552,126,2025-10-08,0.00,8.99,Completed,Cash
+1553,43,2024-08-13,0.08,4.99,Completed,Card
+1554,25,2023-11-29,0.05,6.99,Completed,Card
+1555,162,2024-08-20,0.00,6.99,Completed,PayPal
+1556,94,2023-03-04,0.00,8.99,Completed,Card
+1557,33,2024-06-30,0.09,8.99,Completed,Cash
+1558,6,2025-08-28,0.00,14.99,Completed,Cash
+1559,94,2024-04-29,0.00,8.99,Completed,Bank Transfer
+1560,30,2024-10-16,0.00,8.99,Completed,Bank Transfer
+1561,116,2023-09-13,0.07,4.99,Completed,Bank Transfer
+1562,50,2025-05-24,0.06,8.99,Completed,Cash
+1563,98,2026-02-08,0.00,8.99,Completed,PayPal
+1564,48,2024-12-26,0.00,6.99,Completed,Cash
+1565,151,2023-11-03,0.00,14.99,Completed,Card
+1566,87,2024-06-09,0.00,14.99,Completed,Bank Transfer
+1567,103,2024-05-02,0.00,14.99,Completed,Card
+1568,124,2023-07-06,0.00,4.99,Completed,Card
+1569,109,2025-02-05,0.00,8.99,Completed,PayPal
+1570,143,2024-02-03,0.00,6.99,Completed,PayPal
+1571,156,2026-01-10,0.12,8.99,Completed,Card
+1572,36,2023-04-07,0.11,8.99,Completed,Bank Transfer
+1573,49,2024-10-15,0.14,14.99,Completed,Cash
+1574,121,2024-02-12,0.00,8.99,Completed,Cash
+1575,68,2025-04-16,0.00,8.99,Completed,PayPal
+1576,78,2025-06-08,0.00,14.99,Completed,Bank Transfer
+1577,62,2024-12-17,0.15,14.99,Completed,PayPal
+1578,41,2024-07-17,0.00,4.99,Completed,Card
+1579,16,2024-03-14,0.00,14.99,Completed,PayPal
+1580,125,2025-05-19,0.00,4.99,Completed,Bank Transfer
+1581,4,2024-12-21,0.00,6.99,Completed,Bank Transfer
+1582,144,2026-02-10,0.00,6.99,Completed,Card
+1583,84,2023-07-15,0.00,4.99,Completed,Card
+1584,80,2023-07-01,0.00,4.99,Completed,PayPal
+1585,66,2024-04-12,0.14,14.99,Completed,PayPal
+1586,70,2024-03-24,0.00,4.99,Completed,PayPal
+1587,38,2026-01-13,0.00,8.99,Completed,Bank Transfer
+1588,130,2023-06-23,0.00,6.99,Completed,Cash
+1589,161,2025-09-14,0.00,14.99,Completed,Bank Transfer
+1590,70,2024-10-05,0.00,14.99,Completed,Bank Transfer
+1591,122,2023-05-12,0.00,4.99,Completed,Cash
+1592,88,2025-12-16,0.00,8.99,Completed,Cash
+1593,91,2024-08-17,0.14,4.99,Completed,Card
+1594,10,2025-01-11,0.00,6.99,Completed,Card
+1595,40,2024-11-10,0.00,6.99,Completed,Bank Transfer
+1596,121,2025-10-30,0.00,8.99,Completed,Card
+1597,118,2024-03-05,0.00,6.99,Completed,Cash
+1598,45,2023-03-15,0.00,6.99,Completed,Card
+1599,90,2024-06-12,0.00,14.99,Completed,Bank Transfer
+1600,66,2023-08-24,0.09,8.99,Completed,Card
+1601,109,2025-11-24,0.00,4.99,Completed,Card
+1602,121,2024-11-22,0.15,8.99,Completed,Cash
+1603,44,2025-12-29,0.13,4.99,Completed,PayPal
+1604,31,2023-12-08,0.12,8.99,Completed,Card
+1605,101,2025-07-07,0.00,6.99,Completed,Bank Transfer
+1606,117,2025-10-27,0.00,14.99,Completed,PayPal
+1607,155,2023-08-03,0.00,14.99,Completed,PayPal
+1608,27,2025-04-05,0.00,6.99,Completed,Card
+1609,135,2025-05-29,0.00,6.99,Completed,PayPal
+1610,115,2026-01-24,0.13,8.99,Completed,Card
+1611,75,2026-02-04,0.00,8.99,Completed,Bank Transfer
+1612,135,2025-09-14,0.09,8.99,Completed,Cash
+1613,95,2025-01-27,0.00,8.99,Completed,PayPal
+1614,101,2025-12-11,0.07,14.99,Completed,Card
+1615,1,2025-09-21,0.00,14.99,Completed,PayPal
+1616,128,2025-07-10,0.00,14.99,Completed,Bank Transfer
+1617,64,2023-06-04,0.00,4.99,Completed,Card
+1618,121,2025-02-18,0.00,8.99,Completed,Cash
+1619,10,2024-08-28,0.00,8.99,Completed,Bank Transfer
+1620,94,2023-07-25,0.00,4.99,Completed,Bank Transfer
+1621,8,2026-01-12,0.00,6.99,Completed,Card
+1622,108,2025-04-19,0.00,4.99,Completed,Cash
+1623,117,2024-05-24,0.00,14.99,Completed,PayPal
+1624,145,2025-09-02,0.00,4.99,Completed,Card
+1625,99,2024-02-29,0.00,14.99,Completed,Bank Transfer
+1626,45,2025-09-05,0.00,8.99,Completed,Cash
+1627,96,2025-01-05,0.00,4.99,Completed,Cash
+1628,137,2025-10-07,0.11,6.99,Completed,Card
+1629,41,2023-03-02,0.00,6.99,Completed,Cash
+1630,32,2024-09-15,0.00,14.99,Completed,Cash
+1631,135,2023-08-06,0.00,8.99,Completed,Bank Transfer
+1632,130,2023-06-06,0.00,14.99,Completed,Card
+1633,81,2023-09-13,0.00,6.99,Completed,Card
+1634,78,2023-01-10,0.00,14.99,Completed,Card
+1635,35,2023-01-21,0.00,4.99,Completed,Cash
+1636,106,2026-02-16,0.00,4.99,Completed,Card
+1637,1,2024-01-24,0.00,6.99,Completed,PayPal
+1638,27,2025-12-12,0.00,4.99,Completed,Bank Transfer
+1639,11,2025-05-04,0.00,6.99,Completed,Card
+1640,119,2023-08-20,0.10,14.99,Completed,Cash
+1641,147,2024-06-04,0.00,6.99,Completed,Card
+1642,113,2023-01-19,0.14,8.99,Completed,Cash
+1643,84,2023-04-14,0.07,6.99,Completed,Cash
+1644,23,2023-09-13,0.00,14.99,Completed,Card
+1645,125,2025-03-10,0.00,8.99,Completed,Card
+1646,159,2025-09-18,0.00,4.99,Completed,Bank Transfer
+1647,38,2023-10-12,0.00,14.99,Completed,Card
+1648,103,2025-10-13,0.00,14.99,Completed,Card
+1649,139,2025-10-02,0.09,6.99,Completed,Bank Transfer
+1650,92,2025-12-24,0.00,6.99,Completed,PayPal
+1651,98,2024-06-30,0.00,6.99,Completed,Card
+1652,11,2024-11-18,0.06,6.99,Completed,Bank Transfer
+1653,24,2025-05-17,0.00,6.99,Completed,Bank Transfer
+1654,122,2024-06-28,0.00,4.99,Completed,Cash
+1655,142,2026-01-11,0.00,14.99,Completed,Cash
+1656,77,2024-10-11,0.00,6.99,Completed,Cash
+1657,106,2024-01-07,0.00,6.99,Completed,PayPal
+1658,8,2024-05-21,0.00,14.99,Completed,PayPal
+1659,91,2025-04-05,0.08,14.99,Completed,PayPal
+1660,154,2023-06-21,0.06,8.99,Completed,Cash
+1661,142,2023-05-10,0.09,4.99,Completed,Card
+1662,159,2025-09-29,0.00,6.99,Completed,Bank Transfer
+1663,157,2023-12-17,0.00,4.99,Completed,Card
+1664,73,2024-10-24,0.00,14.99,Completed,Bank Transfer
+1665,37,2023-06-15,0.00,14.99,Completed,PayPal
+1666,59,2024-11-11,0.11,6.99,Completed,Bank Transfer
+1667,150,2024-12-10,0.00,8.99,Completed,PayPal
+1668,96,2024-02-25,0.00,4.99,Completed,Cash
+1669,162,2024-10-18,0.11,6.99,Completed,Bank Transfer
+1670,153,2024-04-13,0.00,14.99,Completed,Cash
+1671,159,2024-04-20,0.00,6.99,Completed,PayPal
+1672,59,2024-12-19,0.00,6.99,Completed,Cash
+1673,145,2024-04-01,0.00,6.99,Completed,Bank Transfer
+1674,23,2023-07-21,0.00,14.99,Completed,Cash
+1675,13,2026-01-06,0.00,14.99,Completed,PayPal
+1676,54,2025-12-21,0.13,8.99,Completed,Bank Transfer
+1677,75,2025-03-01,0.00,4.99,Completed,Bank Transfer
+1678,138,2024-10-12,0.00,8.99,Completed,Cash
+1679,26,2024-09-03,0.00,6.99,Completed,Card
+1680,24,2025-03-03,0.14,8.99,Completed,Card
+1681,95,2025-06-20,0.00,6.99,Completed,PayPal
+1682,59,2023-12-09,0.00,4.99,Completed,Cash
+1683,161,2023-08-25,0.00,8.99,Completed,Card
+1684,62,2025-04-10,0.00,4.99,Completed,Card
+1685,93,2024-01-16,0.12,6.99,Completed,Cash
+1686,151,2023-08-18,0.00,6.99,Completed,PayPal
+1687,3,2023-02-08,0.00,8.99,Completed,Card
+1688,56,2023-07-29,0.14,14.99,Completed,PayPal
+1689,3,2024-09-14,0.00,8.99,Completed,Cash
+1690,146,2024-01-31,0.00,4.99,Completed,Cash
+1691,37,2023-11-02,0.00,6.99,Completed,Cash
+1692,33,2023-03-08,0.00,6.99,Completed,Cash
+1693,47,2023-05-19,0.08,6.99,Completed,Bank Transfer
+1694,137,2025-11-04,0.06,14.99,Completed,PayPal
+1695,116,2025-02-25,0.00,6.99,Completed,PayPal
+1696,46,2024-08-16,0.06,6.99,Completed,PayPal
+1697,59,2024-12-31,0.00,8.99,Completed,Cash
+1698,26,2025-06-09,0.00,8.99,Completed,PayPal
+1699,140,2023-07-25,0.00,14.99,Completed,Bank Transfer
+1700,97,2023-12-10,0.11,14.99,Completed,Card
+1701,42,2023-07-16,0.00,14.99,Completed,Card
+1702,67,2024-04-07,0.12,14.99,Completed,Bank Transfer
+1703,132,2023-08-15,0.00,4.99,Completed,Card
+1704,123,2025-02-25,0.00,8.99,Completed,Bank Transfer
+1705,89,2023-01-09,0.00,14.99,Completed,PayPal
+1706,12,2024-11-16,0.05,8.99,Completed,PayPal
+1707,53,2024-07-12,0.00,14.99,Completed,PayPal
+1708,133,2023-07-09,0.00,6.99,Completed,PayPal
+1709,152,2025-11-24,0.06,6.99,Completed,Bank Transfer
+1710,27,2025-08-27,0.05,14.99,Completed,PayPal
+1711,64,2023-02-10,0.00,14.99,Completed,PayPal
+1712,24,2026-02-06,0.00,6.99,Completed,PayPal
+1713,22,2024-12-31,0.14,6.99,Completed,Bank Transfer
+1714,29,2024-04-06,0.00,4.99,Completed,Cash
+1715,99,2025-05-25,0.11,4.99,Completed,Bank Transfer
+1716,45,2024-08-28,0.09,8.99,Completed,PayPal
+1717,126,2025-06-19,0.00,8.99,Completed,Bank Transfer
+1718,160,2023-08-09,0.09,4.99,Completed,Card
+1719,38,2025-11-20,0.11,6.99,Completed,Card
+1720,134,2024-08-11,0.00,14.99,Completed,Bank Transfer
+1721,8,2024-09-08,0.00,4.99,Completed,PayPal
+1722,102,2024-08-25,0.06,4.99,Completed,PayPal
+1723,66,2023-12-22,0.00,8.99,Completed,Cash
+1724,35,2025-03-26,0.09,4.99,Completed,Cash
+1725,85,2024-10-04,0.00,6.99,Completed,Cash
+1726,48,2024-12-03,0.00,14.99,Completed,Cash
+1727,96,2023-04-20,0.00,4.99,Completed,Bank Transfer
+1728,12,2024-09-29,0.00,4.99,Completed,PayPal
+1729,1,2023-05-29,0.00,14.99,Completed,Bank Transfer
+1730,32,2023-12-19,0.13,4.99,Completed,Bank Transfer
+1731,9,2025-07-02,0.11,8.99,Completed,Card
+1732,62,2023-07-22,0.07,8.99,Completed,Bank Transfer
+1733,42,2025-03-12,0.10,4.99,Completed,PayPal
+1734,48,2025-05-16,0.06,14.99,Completed,Bank Transfer
+1735,21,2025-08-20,0.10,4.99,Completed,Bank Transfer
+1736,152,2023-09-13,0.00,14.99,Completed,Card
+1737,27,2024-07-14,0.07,6.99,Completed,Card
+1738,31,2025-07-12,0.00,14.99,Completed,PayPal
+1739,95,2023-06-26,0.00,8.99,Completed,Card
+1740,24,2023-02-21,0.13,14.99,Completed,Cash
+1741,142,2023-01-29,0.00,6.99,Completed,PayPal
+1742,133,2023-09-28,0.14,6.99,Completed,Card
+1743,15,2024-03-13,0.00,14.99,Completed,Bank Transfer
+1744,162,2023-02-11,0.00,14.99,Completed,PayPal
+1745,141,2023-11-13,0.06,14.99,Completed,PayPal
+1746,150,2026-01-26,0.00,8.99,Completed,Cash
+1747,151,2025-06-22,0.00,6.99,Completed,Bank Transfer
+1748,127,2023-07-30,0.00,6.99,Completed,PayPal
+1749,114,2024-03-05,0.12,4.99,Completed,Bank Transfer
+1750,70,2025-06-21,0.00,14.99,Completed,Bank Transfer
+1751,60,2023-02-20,0.00,6.99,Completed,Bank Transfer
+1752,90,2025-06-17,0.00,14.99,Completed,PayPal
+1753,35,2024-04-06,0.00,8.99,Completed,Bank Transfer
+1754,11,2024-03-11,0.00,6.99,Completed,PayPal
+1755,20,2025-04-04,0.00,14.99,Completed,Bank Transfer
+1756,134,2024-04-05,0.00,6.99,Completed,Cash
+1757,121,2024-11-11,0.13,8.99,Completed,Cash
+1758,112,2023-12-23,0.00,6.99,Completed,PayPal
+1759,55,2024-08-12,0.00,4.99,Completed,Cash
+1760,4,2023-07-07,0.07,14.99,Completed,PayPal
+1761,131,2026-01-26,0.00,6.99,Completed,Cash
+1762,106,2023-10-17,0.00,14.99,Completed,Bank Transfer
+1763,99,2023-03-14,0.00,6.99,Completed,Bank Transfer
+1764,94,2023-10-30,0.00,4.99,Completed,PayPal
+1765,28,2025-07-24,0.00,6.99,Completed,PayPal
+1766,97,2026-01-18,0.00,6.99,Completed,Cash
+1767,88,2025-10-05,0.06,6.99,Completed,Bank Transfer
+1768,32,2023-08-24,0.00,8.99,Completed,PayPal
+1769,19,2025-09-27,0.09,14.99,Completed,Bank Transfer
+1770,156,2023-09-04,0.00,6.99,Completed,Bank Transfer
+1771,127,2023-05-05,0.00,8.99,Completed,PayPal
+1772,140,2025-02-11,0.13,8.99,Completed,Card
+1773,156,2023-05-26,0.08,6.99,Completed,Card
+1774,104,2024-12-30,0.00,6.99,Completed,Bank Transfer
+1775,2,2025-03-29,0.00,6.99,Completed,PayPal
+1776,129,2023-05-03,0.00,6.99,Completed,Bank Transfer
+1777,13,2025-03-11,0.00,4.99,Completed,PayPal
+1778,159,2026-02-15,0.00,4.99,Completed,Cash
+1779,106,2023-05-05,0.00,8.99,Completed,Cash
+1780,20,2024-04-03,0.00,14.99,Completed,PayPal
+1781,60,2023-01-08,0.12,6.99,Cancelled,Card
+1782,19,2025-12-26,0.00,4.99,Cancelled,PayPal
+1783,23,2023-07-31,0.00,14.99,Cancelled,Cash
+1784,1,2025-06-06,0.14,14.99,Completed,Card
+1785,60,2025-02-08,0.00,4.99,Cancelled,Bank Transfer
+1786,12,2023-01-19,0.08,14.99,Cancelled,Cash
+1787,111,2023-12-25,0.00,8.99,Completed,PayPal
+1788,152,2024-12-03,0.00,6.99,Cancelled,PayPal
+1789,14,2023-10-25,0.00,6.99,Completed,PayPal
+1790,31,2023-04-08,0.15,6.99,Cancelled,Cash
+1791,33,2023-04-14,0.14,4.99,Completed,Bank Transfer
+1792,144,2025-05-28,0.00,6.99,Completed,PayPal
+1793,115,2025-03-19,0.00,14.99,Completed,Card
+1794,93,2024-07-10,0.06,4.99,Completed,Card
+1795,125,2024-05-25,0.07,4.99,Completed,PayPal
+1796,5,2023-12-17,0.00,6.99,Cancelled,Card
+1797,111,2023-10-28,0.00,6.99,Completed,PayPal
+1798,53,2025-04-22,0.00,4.99,Completed,Card
+1799,108,2023-02-11,0.00,14.99,Completed,Bank Transfer
+1800,40,2025-01-19,0.00,8.99,Completed,Bank Transfer
+1801,41,2026-01-05,0.00,6.99,Cancelled,PayPal
+1802,101,2026-02-08,0.00,6.99,Cancelled,PayPal
+1803,49,2024-10-21,0.06,8.99,Completed,PayPal
+1804,111,2025-08-06,0.00,14.99,Completed,Card
+1805,57,2023-02-16,0.00,8.99,Completed,Card
+1806,53,2023-06-02,0.00,4.99,Cancelled,Bank Transfer
+1807,88,2023-09-26,0.00,14.99,Cancelled,Cash
+1808,60,2024-09-05,0.00,4.99,Cancelled,Cash
+1809,67,2025-11-02,0.00,8.99,Cancelled,PayPal
+1810,128,2023-07-01,0.00,8.99,Cancelled,PayPal
+1811,50,2025-12-29,0.07,8.99,Completed,PayPal
+1812,18,2025-05-26,0.00,4.99,Completed,Card
+1813,57,2023-07-05,0.08,6.99,Completed,Card
+1814,18,2023-06-23,0.00,8.99,Cancelled,Bank Transfer
+1815,68,2025-04-20,0.00,14.99,Completed,Bank Transfer
+1816,70,2024-09-30,0.00,14.99,Cancelled,Cash
+1817,96,2023-01-29,0.00,8.99,Completed,PayPal
+1818,111,2024-02-18,0.12,4.99,Completed,Cash
+1819,49,2024-01-10,0.12,4.99,Cancelled,Bank Transfer
+1820,12,2025-03-16,0.00,6.99,Completed,Cash
+1821,48,2023-03-31,0.00,6.99,Cancelled,Card
+1822,162,2024-01-24,0.00,6.99,Cancelled,Card
+1823,46,2023-04-24,0.00,14.99,Completed,Card
+1824,156,2024-12-10,0.00,4.99,Cancelled,PayPal
+1825,162,2024-04-21,0.00,4.99,Completed,PayPal
+1826,123,2023-10-13,0.06,6.99,Cancelled,PayPal
+1827,97,2023-01-06,0.00,4.99,Cancelled,Bank Transfer
+1828,160,2025-12-14,0.13,14.99,Cancelled,Cash
+1829,121,2025-10-21,0.00,6.99,Cancelled,PayPal
+1830,138,2023-11-11,0.08,4.99,Cancelled,Bank Transfer
+1831,27,2026-01-16,0.00,8.99,Completed,Bank Transfer
+1832,41,2025-08-22,0.00,8.99,Cancelled,Card
+1833,140,2025-03-21,0.11,4.99,Completed,PayPal
+1834,151,2025-01-18,0.00,6.99,Cancelled,Cash
+1835,60,2024-08-08,0.00,8.99,Completed,Card
+1836,68,2024-11-19,0.13,4.99,Completed,Bank Transfer
+1837,53,2023-08-11,0.09,14.99,Completed,Bank Transfer
+1838,6,2024-10-22,0.06,4.99,Cancelled,Cash
+1839,11,2024-09-01,0.00,8.99,Completed,PayPal
+1840,70,2023-09-22,0.11,8.99,Completed,Bank Transfer
+1841,93,2023-03-11,0.00,14.99,Cancelled,Cash
+1842,46,2024-04-05,0.00,8.99,Cancelled,Cash
+1843,37,2023-02-21,0.00,8.99,Completed,Bank Transfer
+1844,131,2024-01-18,0.00,4.99,Cancelled,Card
+1845,119,2026-01-12,0.00,4.99,Completed,Cash
+1846,3,2025-04-02,0.00,6.99,Completed,PayPal
+1847,100,2023-02-23,0.00,14.99,Completed,Cash
+1848,112,2023-12-01,0.00,4.99,Cancelled,Cash
+1849,107,2023-04-09,0.00,4.99,Completed,Card
+1850,138,2023-01-19,0.00,8.99,Completed,Bank Transfer
+1851,91,2023-11-09,0.00,8.99,Completed,Bank Transfer
+1852,23,2024-03-09,0.00,4.99,Completed,Card
+1853,162,2024-12-26,0.00,14.99,Completed,PayPal
+1854,93,2023-01-17,0.00,8.99,Completed,PayPal
+1855,34,2024-01-04,0.14,14.99,Cancelled,Card
+1856,134,2024-04-11,0.00,8.99,Completed,Cash
+1857,82,2025-02-12,0.07,6.99,Completed,Cash
+1858,113,2023-12-02,0.00,14.99,Completed,Cash
+1859,125,2025-08-28,0.15,4.99,Cancelled,PayPal
+1860,94,2023-12-28,0.07,8.99,Completed,Card
+1861,30,2023-12-15,0.14,8.99,Cancelled,PayPal
+1862,25,2023-08-10,0.00,14.99,Cancelled,Bank Transfer
+1863,102,2025-05-10,0.05,8.99,Cancelled,PayPal
+1864,39,2023-01-05,0.00,6.99,Completed,Cash
+1865,18,2024-06-12,0.09,6.99,Cancelled,Cash
+1866,69,2023-09-13,0.11,6.99,Completed,PayPal
+1867,103,2023-04-13,0.00,6.99,Completed,PayPal
+1868,97,2023-06-13,0.07,4.99,Completed,Bank Transfer
+1869,18,2025-05-07,0.00,8.99,Cancelled,Bank Transfer
+1870,105,2026-01-14,0.10,14.99,Cancelled,Card
+1871,25,2024-02-28,0.00,14.99,Completed,Card
+1872,139,2025-12-15,0.00,8.99,Cancelled,Card
+1873,115,2023-11-01,0.00,4.99,Completed,Bank Transfer
+1874,116,2023-02-06,0.00,4.99,Completed,Bank Transfer
+1875,81,2025-08-07,0.00,8.99,Cancelled,Cash
+1876,9,2023-08-08,0.09,8.99,Cancelled,PayPal
+1877,139,2023-12-30,0.00,4.99,Completed,PayPal
+1878,140,2025-05-17,0.00,8.99,Completed,PayPal
+1879,161,2025-09-23,0.00,4.99,Completed,Cash
+1880,82,2023-09-02,0.00,4.99,Completed,Card
+1881,27,2023-12-14,0.00,4.99,Completed,Cash
+1882,41,2024-01-16,0.10,4.99,Cancelled,Bank Transfer
+1883,78,2024-11-22,0.00,4.99,Cancelled,Card
+1884,114,2025-09-06,0.00,4.99,Cancelled,PayPal
+1885,149,2025-01-18,0.00,8.99,Cancelled,Cash
+1886,35,2026-02-18,0.00,8.99,Cancelled,PayPal
+1887,156,2025-08-27,0.00,4.99,Completed,Bank Transfer
+1888,25,2024-01-12,0.00,14.99,Completed,Bank Transfer
+1889,117,2025-12-01,0.00,8.99,Cancelled,Card
+1890,45,2023-08-06,0.00,4.99,Completed,Cash
+1891,17,2024-05-02,0.13,6.99,Cancelled,Cash
+1892,85,2024-04-28,0.00,6.99,Cancelled,PayPal
+1893,129,2023-11-19,0.00,4.99,Cancelled,Cash
+1894,39,2025-08-08,0.00,8.99,Cancelled,PayPal
+1895,114,2025-03-10,0.00,8.99,Completed,Bank Transfer
+1896,39,2025-06-05,0.00,6.99,Cancelled,PayPal
+1897,118,2025-07-28,0.05,8.99,Completed,Cash
+1898,38,2025-12-01,0.13,6.99,Completed,PayPal
+1899,134,2023-01-02,0.00,8.99,Completed,PayPal
+1900,119,2023-06-29,0.00,6.99,Cancelled,Bank Transfer
+1901,120,2023-12-15,0.00,8.99,Completed,PayPal
+1902,157,2025-02-11,0.00,6.99,Cancelled,Card
+1903,161,2024-02-16,0.15,6.99,Completed,Bank Transfer
+1904,2,2025-02-18,0.00,8.99,Completed,Bank Transfer
+1905,162,2025-04-17,0.00,4.99,Cancelled,Card
+1906,71,2023-05-13,0.00,4.99,Cancelled,Card
+1907,133,2025-07-22,0.00,6.99,Completed,Bank Transfer
+1908,25,2023-12-01,0.06,8.99,Completed,Card
+1909,35,2024-07-07,0.08,6.99,Completed,Bank Transfer
+1910,85,2024-12-21,0.00,14.99,Cancelled,Cash
+1911,91,2025-07-04,0.00,4.99,Completed,Cash
+1912,124,2024-03-14,0.00,14.99,Completed,Cash
+1913,40,2026-01-31,0.00,14.99,Cancelled,Card
+1914,117,2024-08-21,0.00,8.99,Completed,PayPal
+1915,34,2023-03-13,0.00,6.99,Cancelled,Card
+1916,59,2024-06-29,0.00,14.99,Completed,Card
+1917,77,2023-04-02,0.12,6.99,Completed,Card
+1918,128,2025-05-26,0.00,14.99,Cancelled,Cash
+1919,96,2025-06-16,0.00,6.99,Completed,Card
+1920,80,2023-08-11,0.00,14.99,Cancelled,Cash
+1921,50,2023-04-03,0.00,4.99,Cancelled,Card
+1922,123,2024-01-29,0.00,4.99,Completed,PayPal
+1923,72,2023-07-10,0.00,4.99,Completed,PayPal
+1924,72,2024-04-04,0.00,4.99,Completed,Cash
+1925,35,2023-08-15,0.00,4.99,Cancelled,Card
+1926,114,2024-05-27,0.00,6.99,Cancelled,Bank Transfer
+1927,101,2025-02-09,0.00,6.99,Cancelled,Cash
+1928,16,2024-08-25,0.00,4.99,Cancelled,Bank Transfer
+1929,50,2025-06-09,0.08,14.99,Completed,Cash
+1930,19,2024-02-04,0.00,14.99,Cancelled,PayPal
+1931,131,2025-09-15,0.12,4.99,Cancelled,Cash
+1932,132,2025-05-26,0.00,6.99,Cancelled,Cash
+1933,27,2024-05-15,0.00,4.99,Cancelled,Bank Transfer
+1934,51,2024-10-20,0.13,6.99,Completed,PayPal
+1935,75,2024-11-28,0.00,6.99,Cancelled,Card
+1936,13,2023-10-21,0.00,6.99,Cancelled,Cash
+1937,46,2024-03-13,0.00,4.99,Completed,Cash
+1938,16,2024-04-17,0.11,8.99,Completed,PayPal
+1939,129,2025-11-30,0.00,6.99,Cancelled,Card
+1940,118,2024-09-21,0.00,4.99,Completed,PayPal
+1941,137,2024-08-31,0.00,14.99,Cancelled,Cash
+1942,14,2024-12-04,0.06,6.99,Cancelled,Card
+1943,74,2024-09-22,0.00,4.99,Completed,Card
+1944,131,2024-12-13,0.00,8.99,Completed,Cash
+1945,14,2024-01-01,0.00,8.99,Completed,Cash
+1946,140,2025-09-25,0.06,4.99,Completed,Bank Transfer
+1947,26,2024-07-20,0.09,4.99,Completed,PayPal
+1948,100,2025-12-04,0.07,6.99,Completed,Bank Transfer
+1949,110,2025-01-09,0.00,14.99,Cancelled,PayPal
+1950,47,2023-12-14,0.00,6.99,Cancelled,PayPal
+1951,96,2023-05-09,0.11,8.99,Cancelled,Card
+1952,119,2023-02-21,0.00,4.99,Cancelled,Bank Transfer
+1953,150,2025-01-18,0.00,6.99,Completed,Bank Transfer
+1954,130,2023-07-10,0.00,8.99,Cancelled,Cash
+1955,162,2024-12-10,0.00,8.99,Cancelled,PayPal
+1956,99,2023-12-09,0.00,6.99,Completed,PayPal
+1957,142,2025-05-21,0.00,8.99,Cancelled,Cash
+1958,52,2024-05-31,0.00,4.99,Cancelled,Card
+1959,43,2025-11-25,0.08,14.99,Completed,Bank Transfer
+1960,40,2025-07-20,0.00,4.99,Cancelled,Bank Transfer
+1961,130,2024-12-05,0.00,6.99,Cancelled,Bank Transfer
+1962,31,2025-01-24,0.00,8.99,Completed,Card
+1963,14,2026-02-10,0.00,6.99,Cancelled,Card
+1964,80,2023-01-01,0.00,8.99,Completed,Bank Transfer
+1965,81,2024-08-25,0.00,4.99,Completed,PayPal
+1966,114,2023-11-29,0.00,14.99,Cancelled,PayPal
+1967,99,2023-02-17,0.00,8.99,Completed,PayPal
+1968,124,2025-03-18,0.00,14.99,Cancelled,Card
+1969,93,2025-07-02,0.00,14.99,Cancelled,Cash
+1970,11,2026-02-16,0.14,14.99,Cancelled,PayPal
+1971,111,2025-10-15,0.00,4.99,Cancelled,Cash
+1972,117,2024-09-17,0.00,4.99,Cancelled,PayPal
+1973,128,2025-07-19,0.00,14.99,Completed,Cash
+1974,19,2024-02-02,0.00,14.99,Cancelled,Bank Transfer
+1975,140,2024-03-19,0.00,8.99,Completed,Bank Transfer
+1976,90,2026-01-03,0.00,8.99,Completed,Card
+1977,26,2024-06-22,0.14,4.99,Cancelled,Bank Transfer
+1978,128,2024-11-22,0.00,6.99,Completed,Card
+1979,63,2024-03-12,0.10,6.99,Completed,Cash
+1980,161,2024-10-03,0.09,6.99,Completed,Card
+1981,18,2023-05-30,0.00,4.99,Cancelled,Card
+1982,112,2024-03-06,0.14,4.99,Cancelled,Cash
+1983,67,2025-09-12,0.00,8.99,Cancelled,Cash
+1984,96,2025-11-09,0.06,4.99,Completed,PayPal
+1985,129,2025-05-28,0.00,14.99,Completed,Card
+1986,52,2024-10-25,0.14,8.99,Completed,PayPal
+1987,116,2024-12-09,0.14,6.99,Completed,Bank Transfer
+1988,144,2024-08-04,0.13,6.99,Cancelled,PayPal
+1989,152,2025-10-14,0.00,6.99,Cancelled,Cash
+1990,100,2025-11-03,0.00,8.99,Completed,Card
+1991,1,2024-04-27,0.00,4.99,Completed,Cash
+1992,36,2025-12-15,0.00,4.99,Cancelled,Card
+1993,107,2024-09-12,0.15,8.99,Completed,Bank Transfer
+1994,86,2023-03-13,0.09,14.99,Cancelled,Card
+1995,63,2024-12-22,0.14,14.99,Cancelled,PayPal
+1996,62,2024-01-10,0.00,6.99,Completed,Card
+1997,16,2025-05-10,0.00,14.99,Completed,Card
+1998,87,2024-06-23,0.07,14.99,Cancelled,Cash
+1999,89,2026-01-08,0.00,14.99,Completed,Bank Transfer
+2000,38,2025-09-10,0.00,6.99,Completed,Cash
+2001,28,2024-11-21,0.00,8.99,Completed,Cash
+2002,74,2026-01-20,0.00,6.99,Completed,Bank Transfer
+2003,51,2025-04-02,0.00,4.99,Completed,Card
+2004,156,2023-08-01,0.00,8.99,Completed,Card
+2005,6,2024-10-08,0.00,14.99,Completed,Bank Transfer
+2006,83,2023-10-21,0.15,8.99,Completed,Cash
+2007,13,2023-05-31,0.00,8.99,Completed,Card
+2008,1,2024-03-11,0.07,6.99,Completed,PayPal
+2009,37,2025-12-09,0.06,8.99,Completed,PayPal
+2010,32,2023-08-21,0.00,8.99,Completed,Cash
+2011,113,2023-03-16,0.00,14.99,Completed,Cash
+2012,49,2025-04-05,0.00,6.99,Completed,Cash
+2013,11,2023-07-24,0.00,14.99,Completed,Cash
+2014,6,2023-08-04,0.10,6.99,Completed,PayPal
+2015,138,2023-02-22,0.00,6.99,Completed,Card
+2016,59,2023-06-11,0.00,8.99,Completed,Cash
+2017,16,2023-10-31,0.00,6.99,Completed,Cash
+2018,73,2025-08-07,0.09,8.99,Completed,PayPal
+2019,56,2025-12-22,0.00,8.99,Completed,Bank Transfer
+2020,25,2024-06-17,0.14,14.99,Completed,PayPal
+2021,111,2024-06-03,0.00,8.99,Completed,Bank Transfer
+2022,129,2025-02-26,0.00,4.99,Completed,Cash
+2023,59,2025-08-29,0.00,4.99,Completed,Card
+2024,114,2025-09-29,0.00,8.99,Completed,Cash
+2025,82,2025-04-28,0.00,8.99,Completed,Bank Transfer
+2026,136,2025-11-11,0.00,6.99,Completed,Bank Transfer
+2027,112,2023-07-30,0.12,14.99,Completed,Cash
+2028,142,2024-07-03,0.09,8.99,Completed,Card
+2029,155,2023-08-01,0.00,8.99,Completed,PayPal
+2030,54,2023-05-22,0.00,14.99,Completed,Bank Transfer
+2031,62,2023-04-20,0.00,6.99,Completed,Card
+2032,156,2025-02-17,0.00,6.99,Completed,Bank Transfer
+2033,135,2024-12-13,0.00,4.99,Completed,Bank Transfer
+2034,87,2024-02-21,0.00,14.99,Completed,Bank Transfer
+2035,120,2023-02-02,0.11,4.99,Completed,PayPal
+2036,65,2025-06-27,0.08,6.99,Completed,Card
+2037,10,2023-05-31,0.00,14.99,Completed,PayPal
+2038,94,2024-02-25,0.00,6.99,Completed,Cash
+2039,66,2024-10-02,0.00,4.99,Completed,Bank Transfer
+2040,38,2024-04-12,0.00,6.99,Completed,Card
+2041,129,2023-11-28,0.00,6.99,Completed,Bank Transfer
+2042,89,2025-08-07,0.00,14.99,Completed,Cash
+2043,87,2025-08-27,0.00,8.99,Completed,PayPal
+2044,14,2023-10-12,0.07,14.99,Completed,Cash
+2045,2,2025-08-27,0.00,6.99,Completed,Cash
+2046,121,2024-11-04,0.00,8.99,Completed,Cash
+2047,102,2023-06-11,0.12,14.99,Completed,Cash
+2048,62,2025-02-28,0.00,6.99,Completed,Bank Transfer
+2049,91,2023-01-20,0.00,4.99,Completed,Bank Transfer
+2050,11,2025-09-15,0.00,14.99,Completed,Card
+2051,49,2025-11-24,0.00,8.99,Completed,Card
+2052,32,2023-11-19,0.07,8.99,Completed,PayPal
+2053,22,2025-07-25,0.00,14.99,Completed,Cash
+2054,122,2026-02-07,0.00,6.99,Completed,Bank Transfer
+2055,146,2023-05-17,0.06,14.99,Completed,Card
+2056,84,2024-07-31,0.08,8.99,Completed,Bank Transfer
+2057,91,2023-11-28,0.15,8.99,Completed,PayPal
+2058,119,2025-04-08,0.00,14.99,Completed,Bank Transfer
+2059,73,2026-01-21,0.00,8.99,Completed,Card
+2060,83,2025-10-05,0.11,6.99,Completed,Card
+2061,122,2023-08-24,0.08,14.99,Completed,Bank Transfer
+2062,130,2023-09-18,0.05,14.99,Completed,Card
+2063,151,2024-04-12,0.00,4.99,Completed,Cash
+2064,97,2026-02-14,0.00,14.99,Completed,PayPal
+2065,28,2024-12-30,0.00,6.99,Completed,PayPal
+2066,118,2024-03-15,0.10,6.99,Completed,Cash
+2067,67,2023-06-18,0.00,4.99,Completed,PayPal
+2068,82,2024-01-13,0.00,8.99,Completed,Card
+2069,7,2023-06-07,0.00,6.99,Completed,Cash
+2070,10,2025-10-19,0.00,8.99,Completed,Card
+2071,136,2025-09-12,0.07,14.99,Completed,Card
+2072,67,2025-10-01,0.00,4.99,Completed,PayPal
+2073,45,2024-03-30,0.00,8.99,Completed,Cash
+2074,10,2023-10-27,0.00,14.99,Completed,PayPal
+2075,18,2024-04-16,0.09,14.99,Completed,PayPal
+2076,142,2024-06-24,0.07,4.99,Completed,Cash
+2077,31,2024-10-02,0.00,6.99,Completed,Cash
+2078,71,2023-08-21,0.14,8.99,Completed,Bank Transfer
+2079,126,2023-10-04,0.12,8.99,Completed,PayPal
+2080,10,2024-01-20,0.00,6.99,Completed,Bank Transfer
+2081,99,2025-02-06,0.00,8.99,Completed,Card
+2082,84,2024-10-15,0.00,8.99,Completed,Bank Transfer
+2083,119,2023-12-28,0.00,14.99,Completed,Cash
+2084,68,2025-07-17,0.09,14.99,Completed,Card
+2085,96,2025-08-02,0.00,4.99,Completed,Card
+2086,83,2024-06-16,0.10,6.99,Completed,Card
+2087,11,2024-12-06,0.10,14.99,Completed,Cash
+2088,97,2025-09-14,0.00,14.99,Completed,Card
+2089,96,2025-05-27,0.00,14.99,Completed,Card
+2090,102,2024-03-30,0.00,6.99,Completed,Card
+2091,105,2026-01-07,0.08,4.99,Completed,Cash
+2092,28,2023-04-02,0.07,6.99,Completed,Card
+2093,161,2023-11-29,0.00,8.99,Completed,Card
+2094,28,2024-04-29,0.00,8.99,Completed,PayPal
+2095,73,2023-05-07,0.00,8.99,Completed,Card
+2096,133,2023-04-27,0.00,14.99,Completed,Cash
+2097,103,2025-03-30,0.00,4.99,Completed,Bank Transfer
+2098,144,2025-07-08,0.00,4.99,Completed,Card
+2099,137,2025-11-26,0.00,8.99,Completed,Bank Transfer
+2100,19,2023-09-20,0.08,4.99,Completed,Card
+2101,21,2025-12-20,0.00,14.99,Completed,Bank Transfer
+2102,132,2024-12-06,0.00,6.99,Completed,PayPal
+2103,64,2026-01-20,0.00,6.99,Completed,Bank Transfer
+2104,76,2024-10-08,0.00,6.99,Completed,PayPal
+2105,1,2023-06-28,0.08,6.99,Completed,Bank Transfer
+2106,11,2025-08-16,0.08,8.99,Completed,Cash
+2107,110,2024-04-26,0.00,4.99,Completed,Bank Transfer
+2108,88,2026-01-04,0.00,14.99,Completed,Bank Transfer
+2109,86,2023-08-16,0.00,6.99,Completed,Bank Transfer
+2110,29,2023-09-01,0.00,4.99,Completed,PayPal
+2111,139,2024-07-14,0.14,14.99,Completed,Card
+2112,84,2023-05-05,0.12,6.99,Completed,PayPal
+2113,125,2023-09-27,0.11,8.99,Completed,Bank Transfer
+2114,113,2025-09-10,0.00,6.99,Completed,Cash
+2115,42,2024-06-14,0.00,6.99,Completed,Bank Transfer
+2116,141,2024-05-15,0.00,8.99,Completed,Card
+2117,26,2023-10-18,0.07,6.99,Completed,PayPal
+2118,131,2023-08-28,0.00,6.99,Completed,Cash
+2119,4,2025-01-19,0.00,14.99,Completed,Cash
+2120,135,2023-04-09,0.09,6.99,Completed,Card
+2121,81,2024-01-19,0.00,14.99,Completed,PayPal
+2122,117,2025-02-17,0.00,4.99,Completed,PayPal
+2123,155,2025-10-25,0.00,6.99,Completed,Bank Transfer
+2124,40,2025-02-24,0.00,6.99,Completed,PayPal
+2125,119,2023-03-09,0.00,6.99,Completed,Cash
+2126,128,2025-09-12,0.05,6.99,Completed,Bank Transfer
+2127,124,2024-07-21,0.00,6.99,Completed,Cash
+2128,129,2025-07-31,0.00,4.99,Completed,Card
+2129,22,2024-09-27,0.00,4.99,Completed,Cash
+2130,86,2024-11-05,0.00,14.99,Completed,PayPal
+2131,57,2025-09-18,0.00,8.99,Completed,PayPal
+2132,67,2026-01-15,0.00,4.99,Completed,Cash
+2133,79,2024-08-06,0.00,14.99,Completed,Cash
+2134,105,2024-04-22,0.00,6.99,Completed,PayPal
+2135,1,2023-04-09,0.00,14.99,Completed,Bank Transfer
+2136,106,2025-07-13,0.00,14.99,Completed,Card
+2137,61,2023-10-31,0.00,4.99,Completed,Cash
+2138,121,2023-11-17,0.00,14.99,Completed,Cash
+2139,154,2024-12-10,0.00,6.99,Completed,Bank Transfer
+2140,151,2025-02-09,0.00,14.99,Completed,Cash
+2141,151,2025-09-18,0.00,4.99,Completed,PayPal
+2142,91,2023-09-23,0.00,8.99,Completed,Bank Transfer
+2143,122,2025-10-27,0.00,6.99,Completed,Card
+2144,148,2025-12-16,0.15,4.99,Completed,Cash
+2145,116,2024-04-13,0.07,8.99,Completed,Bank Transfer
+2146,31,2023-03-19,0.11,14.99,Completed,Cash
+2147,103,2025-08-04,0.00,8.99,Completed,Card
+2148,148,2023-09-11,0.00,4.99,Completed,Bank Transfer
+2149,31,2023-02-17,0.00,4.99,Completed,Cash
+2150,107,2023-08-27,0.00,8.99,Completed,Card
+2151,54,2024-08-06,0.00,4.99,Completed,Card
+2152,24,2024-03-31,0.00,6.99,Completed,Bank Transfer
+2153,65,2025-03-13,0.00,6.99,Completed,Bank Transfer
+2154,87,2025-11-26,0.07,14.99,Completed,Bank Transfer
+2155,90,2023-11-07,0.00,8.99,Completed,Card
+2156,24,2023-02-26,0.14,4.99,Completed,PayPal
+2157,39,2023-04-14,0.10,4.99,Completed,Bank Transfer
+2158,13,2025-09-14,0.00,8.99,Completed,Cash
+2159,97,2026-01-26,0.00,6.99,Completed,Bank Transfer
+2160,148,2023-04-12,0.08,4.99,Completed,Card
+2161,138,2023-01-27,0.00,14.99,Completed,Cash
+2162,20,2025-02-27,0.00,4.99,Completed,Bank Transfer
+2163,148,2025-08-06,0.00,6.99,Completed,Bank Transfer
+2164,99,2023-05-24,0.11,8.99,Completed,Card
+2165,48,2025-07-23,0.00,6.99,Completed,PayPal
+2166,80,2025-08-09,0.00,14.99,Completed,Bank Transfer
+2167,33,2023-11-28,0.08,4.99,Completed,Bank Transfer
+2168,45,2024-05-15,0.00,6.99,Completed,Card
+2169,111,2025-06-19,0.15,4.99,Completed,Cash
+2170,103,2024-03-10,0.13,14.99,Completed,Card
+2171,145,2023-06-14,0.00,14.99,Completed,PayPal
+2172,7,2023-09-13,0.08,6.99,Completed,Bank Transfer
+2173,67,2024-05-03,0.06,14.99,Completed,Cash
+2174,31,2025-03-23,0.12,8.99,Completed,Card
+2175,78,2023-06-30,0.00,6.99,Completed,Card
+2176,71,2024-06-06,0.09,6.99,Completed,Cash
+2177,143,2023-10-27,0.00,6.99,Completed,Cash
+2178,158,2024-03-21,0.00,14.99,Completed,PayPal
+2179,84,2024-10-17,0.00,14.99,Completed,Bank Transfer
+2180,32,2023-12-06,0.11,4.99,Completed,Cash
+2181,63,2025-03-04,0.00,6.99,Completed,PayPal
+2182,91,2025-03-20,0.06,14.99,Completed,PayPal
+2183,10,2024-07-10,0.00,14.99,Completed,Card
+2184,34,2025-04-27,0.00,4.99,Completed,Card
+2185,21,2024-07-13,0.00,14.99,Completed,PayPal
+2186,59,2024-11-11,0.11,4.99,Completed,Cash
+2187,76,2023-02-18,0.15,6.99,Completed,Bank Transfer
+2188,159,2024-08-12,0.00,8.99,Completed,Bank Transfer
+2189,96,2024-05-15,0.00,8.99,Completed,Card

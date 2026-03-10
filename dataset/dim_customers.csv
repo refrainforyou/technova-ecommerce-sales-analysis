@@ -1,0 +1,163 @@
+customer_id,birth_date,first_name,last_name,gender,country,city,marketing_channel,device_type
+1,1993-04-14,Oleh,Kravets,Male,Ukraine,Kharkiv,ads,Desktop
+2,1996-05-23,Kateryna,Bondarenko,Female,Ukraine,Lviv,organic,Mobile
+3,1989-11-05,Andriy,Shevchuk,Male,Ukraine,Kyiv,referral,Tablet
+4,1995-01-19,Natalia,Tkachenko,Female,Ukraine,Dnipro,ads,Desktop
+5,1992-08-30,Yaroslav,Petrenko,Male,Ukraine,Odessa,organic,Mobile
+6,1988-03-12,Iryna,Savchenko,Female,Ukraine,Zaporizhzhia,referral,Tablet
+7,1997-07-09,Marek,Kaczmarek,Male,Poland,Warsaw,ads,Desktop
+8,1990-12-21,Anna,Sikorska,Female,Poland,Krakow,organic,Mobile
+9,1994-02-28,Tomasz,Wojcik,Male,Poland,Poznan,referral,Tablet
+10,1991-09-14,Magdalena,Zielinska,Female,Poland,Gdansk,ads,Desktop
+11,1987-05-03,Lukas,Novak,Male,Czech Republic,Prague,organic,Mobile
+12,1993-06-22,Petra,Havlickova,Female,Czech Republic,Brno,referral,Tablet
+13,1996-10-18,Jan,Svoboda,Male,Czech Republic,Ostrava,ads,Desktop
+14,1992-01-30,Eva,Dvorakova,Female,Czech Republic,Plzen,organic,Mobile
+15,1989-07-07,Vlad,Ionescu,Male,Romania,Bucharest,referral,Tablet
+16,1995-03-21,Elena,Marinescu,Female,Romania,Cluj,ads,Desktop
+17,1990-11-10,Mihai,Popescu,Male,Romania,Timisoara,organic,Mobile
+18,1994-04-16,Andreea,Dumitrescu,Female,Romania,Iasi,referral,Tablet
+19,1993-08-25,Ion,Rusu,Male,Moldova,Chisinau,ads,Desktop
+20,1997-02-11,Maria,Cojocaru,Female,Moldova,Balti,organic,Mobile
+21,1988-09-12,Alexei,Moraru,Male,Moldova,Tiraspol,referral,Tablet
+22,1991-12-03,Svetlana,Filip,Female,Moldova,Cahul,ads,Desktop
+23,1996-06-30,Jakub,Krejci,Male,Czech Republic,Hradec Kralove,organic,Mobile
+24,1990-04-15,Lucie,Kralova,Female,Czech Republic,Liberec,referral,Tablet
+25,1992-09-20,Paweł,Nowicki,Male,Poland,Lodz,ads,Desktop
+26,1995-05-17,Katarzyna,Wroblewska,Female,Poland,Szczecin,organic,Mobile
+27,1987-11-25,Hans,Schneider,Male,Germany,Berlin,referral,Tablet
+28,1993-01-08,Sophie,Meyer,Female,Germany,Munich,ads,Desktop
+29,1994-07-12,Friedrich,Becker,Male,Germany,Frankfurt,organic,Mobile
+30,1991-10-30,Clara,Schulz,Female,Germany,Hamburg,referral,Tablet
+31,1990-03-18,Piotr,Lewandowski,Male,Poland,Wroclaw,ads,Desktop
+32,1996-08-07,Agnieszka,Kowalczyk,Female,Poland,Gdynia,organic,Mobile
+33,1992-12-22,Mihai,Stanescu,Male,Romania,Brasov,referral,Tablet
+34,1997-04-11,Ioana,Pop,Female,Romania,Bucharest,ads,Desktop
+35,1989-05-30,Andrei,Vasilescu,Male,Romania,Constanta,organic,Mobile
+36,1993-02-14,Ana,Iancu,Female,Romania,Cluj,referral,Tablet
+37,1990-06-25,Oleh,Bondar,Male,Ukraine,Kharkiv,ads,Desktop
+38,1995-09-03,Tetiana,Shevchuk,Female,Ukraine,Lviv,organic,Mobile
+39,1992-11-11,Yevhen,Kravchenko,Male,Ukraine,Kyiv,referral,Tablet
+40,1998-01-05,Olena,Melnyk,Female,Ukraine,Dnipro,ads,Desktop
+41,1994-03-20,Piotr,Kowalski,Male,Poland,Krakow,organic,Mobile
+42,1996-07-28,Magdalena,Kaczmarek,Female,Poland,Poznan,referral,Tablet
+43,1988-08-17,Jan,Novak,Male,Czech Republic,Prague,ads,Desktop
+44,1991-12-19,Eva,Svobodova,Female,Czech Republic,Brno,organic,Mobile
+45,1993-09-09,Ion,Popescu,Male,Moldova,Chisinau,referral,Tablet
+46,1997-05-22,Maria,Rusu,Female,Moldova,Balti,ads,Desktop
+47,1990-01-14,Mihai,Dumitrescu,Male,Romania,Iasi,organic,Mobile
+48,1995-10-31,Elena,Marin,Female,Romania,Timisoara,referral,Tablet
+49,1992-04-05,Andriy,Koval,Male,Ukraine,Odessa,ads,Desktop
+50,1996-09-16,Kateryna,Ivanova,Female,Ukraine,Kyiv,organic,Mobile
+51,1987-02-27,Hans,Fischer,Male,Germany,Berlin,referral,Tablet
+52,1990-03-15,Artem,Shevchenko,Male,Ukraine,Kyiv,ads,Desktop
+53,1985-07-22,Anna,Kovalenko,Female,Ukraine,Lviv,organic,Mobile
+54,1992-11-05,Piotr,Nowak,Male,Poland,Warsaw,ads,Desktop
+55,1998-01-30,Magdalena,Kowalska,Female,Poland,Krakow,referral,Tablet
+56,1995-09-12,Hans,Müller,Male,Germany,Berlin,organic,Desktop
+57,1988-06-18,Sophie,Schmidt,Female,Germany,Munich,ads,Mobile
+58,1993-04-02,Ion,Popescu,Male,Moldova,Chisinau,referral,Mobile
+59,1997-12-11,Maria,Rusu,Female,Moldova,Balti,ads,Tablet
+60,1991-05-20,Jan,Novak,Male,Czech Republic,Prague,organic,Desktop
+61,1989-08-09,Eva,Svobodova,Female,Czech Republic,Brno,referral,Mobile
+62,1994-10-14,Ionela,Ionescu,Female,Romania,Bucharest,ads,Desktop
+63,1996-02-25,Mihai,Popa,Male,Romania,Cluj,organic,Tablet
+64,1987-03-10,Oksana,Melnyk,Female,Ukraine,Odessa,referral,Mobile
+65,1990-07-07,Viktor,Shevchenko,Male,Ukraine,Dnipro,ads,Desktop
+66,1999-11-23,Piotr,Lewandowski,Male,Poland,Gdansk,organic,Tablet
+67,1991-01-17,Agnieszka,Wozniak,Female,Poland,Poznan,ads,Mobile
+68,1985-05-29,Friedrich,Becker,Male,Germany,Frankfurt,referral,Desktop
+69,1992-08-03,Clara,Fischer,Female,Germany,Hamburg,organic,Tablet
+70,1990-09-21,Vlad,Dumitrescu,Male,Romania,Timisoara,ads,Desktop
+71,1998-12-12,Elena,Marin,Female,Romania,Iasi,referral,Mobile
+72,1991-06-14,Dmytro,Polishchuk,Male,Ukraine,Lviv,ads,Desktop
+73,1994-12-05,Svitlana,Marchenko,Female,Ukraine,Kyiv,organic,Mobile
+74,1989-03-19,Olexiy,Melnyk,Male,Ukraine,Dnipro,referral,Tablet
+75,1995-08-22,Yana,Hrytsenko,Female,Ukraine,Odessa,ads,Desktop
+76,1990-02-11,Roman,Kuznetsov,Male,Ukraine,Kharkiv,organic,Mobile
+77,1993-09-03,Iryna,Lysenko,Female,Ukraine,Zaporizhzhia,referral,Tablet
+78,1992-04-28,Marek,Lewandowski,Male,Poland,Warsaw,ads,Desktop
+79,1996-07-17,Agnieszka,Nowak,Female,Poland,Krakow,organic,Mobile
+80,1988-11-23,Tomasz,Wojcik,Male,Poland,Poznan,referral,Tablet
+81,1991-05-30,Magdalena,Sikorska,Female,Poland,Gdansk,ads,Desktop
+82,1993-01-08,Jan,Svoboda,Male,Czech Republic,Prague,organic,Mobile
+83,1994-06-19,Petra,Novakova,Female,Czech Republic,Brno,referral,Tablet
+84,1990-08-25,Lukas,Dvorak,Male,Czech Republic,Ostrava,ads,Desktop
+85,1995-02-14,Eva,Havlickova,Female,Czech Republic,Plzen,organic,Mobile
+86,1989-10-09,Vlad,Popescu,Male,Romania,Bucharest,referral,Tablet
+87,1992-12-28,Andreea,Stanescu,Female,Romania,Cluj,ads,Desktop
+88,1996-03-15,Mihai,Ionescu,Male,Romania,Timisoara,organic,Mobile
+89,1991-07-20,Ioana,Marinescu,Female,Romania,Iasi,referral,Tablet
+90,1993-11-11,Ion,Rusu,Male,Moldova,Chisinau,ads,Desktop
+91,1995-01-05,Maria,Cojocaru,Female,Moldova,Balti,organic,Mobile
+92,1987-05-28,Alexei,Moraru,Male,Moldova,Tiraspol,referral,Tablet
+93,1990-09-19,Svetlana,Filip,Female,Moldova,Cahul,ads,Desktop
+94,1996-12-02,Jakub,Krejci,Male,Czech Republic,Hradec Kralove,organic,Mobile
+95,1992-08-07,Lucie,Kralova,Female,Czech Republic,Liberec,referral,Tablet
+96,1994-03-22,Paweł,Nowicki,Male,Poland,Lodz,ads,Desktop
+97,1991-11-13,Katarzyna,Wroblewska,Female,Poland,Szczecin,organic,Mobile
+98,1988-01-30,Hans,Schneider,Male,Germany,Berlin,referral,Tablet
+99,1993-07-17,Sophie,Meyer,Female,Germany,Munich,ads,Desktop
+100,1994-10-08,Friedrich,Becker,Male,Germany,Frankfurt,organic,Mobile
+101,1991-04-26,Clara,Schulz,Female,Germany,Hamburg,referral,Tablet
+102,1990-06-15,Piotr,Kowalski,Male,Poland,Wroclaw,ads,Desktop
+103,1996-09-27,Agnieszka,Kowalczyk,Female,Poland,Gdynia,organic,Mobile
+104,1992-02-10,Mihai,Stanescu,Male,Romania,Brasov,referral,Tablet
+105,1997-05-09,Ioana,Pop,Female,Romania,Bucharest,ads,Desktop
+106,1989-03-21,Andrei,Vasilescu,Male,Romania,Constanta,organic,Mobile
+107,1993-12-01,Ana,Iancu,Female,Romania,Cluj,referral,Tablet
+108,1990-04-18,Oleh,Bondar,Male,Ukraine,Kharkiv,ads,Desktop
+109,1995-09-29,Tetiana,Shevchuk,Female,Ukraine,Lviv,organic,Mobile
+110,1992-11-20,Yevhen,Kravchenko,Male,Ukraine,Kyiv,referral,Tablet
+111,1998-01-30,Olena,Melnyk,Female,Ukraine,Dnipro,ads,Desktop
+112,1994-03-05,Piotr,Kowalczyk,Male,Poland,Krakow,organic,Mobile
+113,1996-07-21,Magdalena,Kaczmarek,Female,Poland,Poznan,referral,Tablet
+114,1988-08-12,Jan,Novak,Male,Czech Republic,Prague,ads,Desktop
+115,1991-12-29,Eva,Svobodova,Female,Czech Republic,Brno,organic,Mobile
+116,1993-09-27,Ion,Popescu,Male,Moldova,Chisinau,referral,Tablet
+117,1997-05-14,Maria,Rusu,Female,Moldova,Balti,ads,Desktop
+118,1990-01-21,Mihai,Dumitrescu,Male,Romania,Iasi,organic,Mobile
+119,1995-10-19,Elena,Marin,Female,Romania,Timisoara,referral,Tablet
+120,1992-04-12,Andriy,Koval,Male,Ukraine,Odessa,ads,Desktop
+121,1996-09-03,Kateryna,Ivanova,Female,Ukraine,Kyiv,organic,Mobile
+122,1987-02-16,Hans,Fischer,Male,Germany,Berlin,referral,Tablet
+123,2001-03-12,Artem,Drobotun,Male,Ukraine,Kyiv,ads,Mobile
+124,2002-07-25,Anastasiya,Petrenko,Female,Ukraine,Lviv,organic,Desktop
+125,2003-01-18,Mykola,Bondar,Male,Ukraine,Odessa,referral,Tablet
+126,2004-05-07,Oksana,Shevchenko,Female,Ukraine,Dnipro,ads,Mobile
+127,2005-11-22,Daniil,Kravchenko,Male,Ukraine,Kharkiv,organic,Desktop
+128,2006-02-14,Kateryna,Melnyk,Female,Ukraine,Zaporizhzhia,referral,Tablet
+129,2001-08-03,Marek,Nowak,Male,Poland,Warsaw,ads,Mobile
+130,2002-12-29,Magdalena,Lewandowska,Female,Poland,Krakow,organic,Desktop
+131,2003-04-15,Tomasz,Wojcik,Male,Poland,Gdansk,referral,Tablet
+132,2004-09-20,Agnieszka,Sikorska,Female,Poland,Poznan,ads,Mobile
+133,2005-06-11,Jan,Svoboda,Male,Czech Republic,Prague,organic,Desktop
+134,2006-03-25,Petra,Novakova,Female,Czech Republic,Brno,referral,Tablet
+135,2001-10-18,Lukas,Dvorak,Male,Czech Republic,Ostrava,ads,Mobile
+136,2002-05-04,Eva,Havlickova,Female,Czech Republic,Plzen,organic,Desktop
+137,2003-08-12,Vlad,Popescu,Male,Romania,Bucharest,referral,Tablet
+138,2004-11-23,Andreea,Stanescu,Female,Romania,Cluj,ads,Mobile
+139,2005-02-07,Mihai,Ionescu,Male,Romania,Timisoara,organic,Desktop
+140,2006-07-29,Ioana,Marinescu,Female,Romania,Iasi,referral,Tablet
+141,2001-01-15,Ion,Rusu,Male,Moldova,Chisinau,ads,Mobile
+142,2002-06-30,Maria,Cojocaru,Female,Moldova,Balti,organic,Desktop
+143,2003-03-11,Alexei,Moraru,Male,Moldova,Tiraspol,referral,Tablet
+144,2004-09-05,Svetlana,Filip,Female,Moldova,Cahul,ads,Mobile
+145,2005-12-17,Jakub,Krejci,Male,Czech Republic,Hradec Kralove,organic,Desktop
+146,2006-04-26,Lucie,Kralova,Female,Czech Republic,Liberec,referral,Tablet
+147,2001-07-19,Paweł,Nowicki,Male,Poland,Lodz,ads,Mobile
+148,2002-02-23,Katarzyna,Wroblewska,Female,Poland,Szczecin,organic,Desktop
+149,2003-11-09,Hans,Schneider,Male,Germany,Berlin,referral,Tablet
+150,2004-08-15,Sophie,Meyer,Female,Germany,Munich,ads,Mobile
+151,2005-01-30,Friedrich,Becker,Male,Germany,Frankfurt,organic,Desktop
+152,2006-06-11,Clara,Schulz,Female,Germany,Hamburg,referral,Tablet
+153,2001-03-28,Piotr,Kowalski,Male,Poland,Wroclaw,ads,Mobile
+154,2002-09-19,Agnieszka,Kowalczyk,Female,Poland,Gdynia,organic,Desktop
+155,2003-12-07,Mihai,Stanescu,Male,Romania,Brasov,referral,Tablet
+156,2004-05-21,Ioana,Pop,Female,Romania,Bucharest,ads,Mobile
+157,2005-03-16,Andrei,Vasilescu,Male,Romania,Constanta,organic,Desktop
+158,2006-10-02,Ana,Iancu,Female,Romania,Cluj,referral,Tablet
+159,2001-04-18,Oleh,Bondar,Male,Ukraine,Kharkiv,ads,Mobile
+160,2002-09-29,Tetiana,Shevchuk,Female,Ukraine,Lviv,organic,Desktop
+161,2003-11-20,Yevhen,Kravchenko,Male,Ukraine,Kyiv,referral,Tablet
+162,2004-01-30,Olena,Melnyk,Female,Ukraine,Dnipro,ads,Mobile

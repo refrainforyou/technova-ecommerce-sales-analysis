@@ -1,0 +1,51 @@
+product_id,product_name,subcategory_id,brand,price,cost
+1,iPhone 15,1,Apple,999.99,700.00
+2,iPhone 15 Pro,1,Apple,1199.99,850.00
+3,iPhone 15 Pro Max,1,Apple,1399.99,950.00
+4,Samsung Galaxy S23,2,Samsung,899.99,600.00
+5,Samsung Galaxy S23 Ultra,2,Samsung,1199.99,850.00
+6,Xiaomi 13,2,Xiaomi,699.99,450.00
+7,Huawei P60,2,Huawei,749.99,500.00
+8,Asus ROG Strix,3,Asus,1599.99,1200.00
+9,MSI Gaming GP66,3,MSI,1499.99,1100.00
+10,MacBook Air M2,4,Apple,1199.99,900.00
+11,Dell XPS 13,4,Dell,999.99,700.00
+12,"Samsung 55"" LED",5,Samsung,699.99,500.00
+13,"LG 50"" LED",5,LG,649.99,450.00
+14,"LG 55"" OLED",6,LG,1299.99,900.00
+15,"Sony 65"" OLED",6,Sony,1799.99,1300.00
+16,Apple USB-C Charger 20W,7,Apple,29.99,15.00
+17,Samsung Fast Charger 25W,7,Samsung,39.99,20.00
+18,Sony WH-1000XM5,8,Sony,349.99,200.00
+19,Bose QuietComfort 45,8,Bose,329.99,190.00
+20,Logitech MX Master 3,9,Logitech,99.99,60.00
+21,Razer DeathAdder V2,9,Razer,69.99,40.00
+22,Logitech G915 TKL,10,Logitech,199.99,120.00
+23,Razer BlackWidow V3,10,Razer,149.99,90.00
+24,iPhone 16,1,Apple,1099.99,750.00
+25,iPhone 16 Pro,1,Apple,1299.99,900.00
+26,iPhone 16 Pro Max,1,Apple,1499.99,1050.00
+27,iPhone 17,1,Apple,1199.99,800.00
+28,iPhone 17 Pro,1,Apple,1399.99,950.00
+29,iPhone 17 Pro Max,1,Apple,1599.99,1100.00
+30,Samsung Galaxy S24,2,Samsung,999.99,650.00
+31,Samsung Galaxy Z Fold 6,2,Samsung,1799.99,1300.00
+32,Xiaomi 14,2,Xiaomi,749.99,480.00
+33,Xiaomi 14 Pro,2,Xiaomi,899.99,600.00
+34,Logitech G Pro X Superlight,9,Logitech,129.99,75.00
+35,Razer Viper Ultimate,9,Razer,99.99,55.00
+36,Corsair K95 RGB Platinum,10,Corsair,199.99,120.00
+37,SteelSeries Apex Pro,10,SteelSeries,179.99,110.00
+38,HyperX Alloy FPS Pro,10,HyperX,129.99,80.00
+39,Roccat Vulcan 121 AIMO,10,Roccat,149.99,90.00
+40,SteelSeries Rival 3,9,SteelSeries,49.99,30.00
+41,Corsair Harpoon RGB,9,Corsair,59.99,35.00
+42,"Samsung 65"" QLED",5,Samsung,1099.99,800.00
+43,"Sony 55"" LED",5,Sony,799.99,550.00
+44,HP Spectre x360,4,HP,1299.99,950.00
+45,Lenovo ThinkPad X1 Carbon,4,Lenovo,1399.99,1000.00
+46,Acer Swift 5,4,Acer,1099.99,800.00
+47,Samsung Galaxy Note 23,2,Samsung,1099.99,750.00
+48,Samsung Galaxy A74,2,Samsung,499.99,320.00
+49,"MacBook Pro 14""",4,Apple,1999.99,1400.00
+50,"MacBook Pro 16""",4,Apple,2499.99,1750.00
