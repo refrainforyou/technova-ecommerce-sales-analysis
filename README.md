@@ -182,7 +182,7 @@ Customer behavior insights:
 
 Overview page:
 
-![Dashboard](images/overview_dashboard.png)
+![Dashboard](images/dashboard_overview.png)
 
 ---
 
