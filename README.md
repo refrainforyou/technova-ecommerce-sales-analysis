@@ -7,7 +7,7 @@ The project demonstrates practical **data analytics workflow**, including SQL da
 
 ---
 
-## Business Questions
+# Business Questions
 
 This analysis answers the following questions:
 
