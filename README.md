@@ -37,6 +37,7 @@ An interactive **Power BI dashboard** was built to explore these insights visual
 technova-ecommerce-sales-analysis
 │
 ├── database
+│   ├── data_model.png
 │   └── technova_dump.sql
 │
 ├── dataset
