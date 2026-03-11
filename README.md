@@ -7,6 +7,17 @@ The project demonstrates practical **data analytics workflow**, including SQL da
 
 ---
 
+## Business Questions
+
+This analysis answers the following questions:
+
+- What is the total revenue trend over time?
+- Which products generate the highest revenue?
+- What is the average order value?
+- Which categories have the highest sales volume?
+
+---
+
 # Project Overview
 
 The analysis focuses on understanding:
